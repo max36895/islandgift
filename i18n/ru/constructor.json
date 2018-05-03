@@ -1,0 +1,1190 @@
+{
+	"border": "Разделитель",
+	"background": "Фон",
+	"dublicated abs widget": "Дублирование абсолютного виджета на одной странице",
+	"file name": "Название файла",
+	"file size": "Размер файла",
+	"click to upload": "Нажать для загрузки",
+	"fileSizes": {
+		"kb": "кб",
+		"mb": "мб"
+	},
+	"units": {
+		"px": "пк"
+	},
+	"sizeValues": {
+		"small": "Маленькая",
+		"medium": "Средняя",
+		"middle": "Средняя",
+		"large": "Большая"
+	},
+	"ulcraft site constructor": "uKit - Конструктор сайтов",
+	"constructor": "Конструктор",
+	"backups title": "Бекапы",
+	"backups not exist": "У вас нет ни одного бекапа",
+	"backups add first": "Добавьте свой первый бекап",
+	"backup user filter": "Показать только ручные",
+	"backup create": "Создать бекап",
+	"backup created": "Бекап создан",
+	"backup title error": "Название бекапа должно содержать от 3 до 32 символов",
+	"backup limit error": "Ошибка, можно создавать не более %1 бекапов",
+	"backup edit": "Название бекапа",
+	"backup title": "Название бекапа",
+	"backup title updated": "Название успешно обновлено",
+	"backup title length error": "Недостаточная длина в названии бекапа",
+	"backup removed": "Бекап успешно удален",
+	"backup user": "Ручной бекап",
+	"backup period": "Автоматический бекап",
+	"backup publish": "Бекап публикации",
+	"backup restore": "Восстановить",
+	"backup restore confirm text": "Вы уверены, что хотите восстановить сайт из бекапа?",
+	"backup restore confirm title": "Восстановление сайта из бекапа",
+	"backup remove": "Удаление бекапа",
+	"backup remove confirm text": "Вы уверены, что хотите удалить бекап?",
+	"backup current state": "Текущее состояние",
+	"backup limit exceed": "Лимит на ручные бекапы превышен",
+	"backup on create new removed oldest": "При создании нового, будет удален бекап за %1",
+	"backup restored": "Сайт успешно восстановлен из бекапа",
+	"adblock detected": "Вероятно, вы используете программы, блокирующие рекламу на сайтах. Они могут влиять на работу конструктора. Мы не показываем рекламу в конструкторе. Рекомендуем отключить блокировщик, или добавить %1 в исключения.",
+	"upload more": "Загрузить еще",
+	"dashboard": "Панель управления",
+	"undo": "Отменить",
+	"redo": "Повторить",
+	"publish": "Опубликовать",
+	"unpublish": "Снять с публикации",
+	"published": "Опубликовано",
+	"error during site publish": "Ошибка при публикации сайта",
+	"publication schedule": "Запланировать публикацию",
+	"publication schedule short": "Запланировать",
+	"cancel": "Отмена",
+	"publication date": "DD MMMM YYYY в HH:mm",
+	"edit publication": "Изменить",
+	"plain time": "Запись будет опубликована",
+	"post is published": "Запись опубликована",
+	"changes in post fall directly on the site": "Изменения в записи попадают сразу на сайт",
+	"you can not plan the last publication": "Нельзя запланировать публикацию в прошлом",
+	"site address": "Адрес сайта",
+	"last published on DATE": "Последняя публикация %1",
+	"publish site and talk about": "Опубликуйте сайт, пусть о нем узнают!",
+	"publish again tooltip": "Внесли изменения на сайт? Опубликуйте его, чтобы их увидели ваши посетители",
+	"congratulations": "Поздравляем",
+	"your site has been published": "Ваш сайт опубликован!",
+	"close": "Закрыть",
+	"do not show again": "Больше не показывать",
+	"press left button and move widget to page": "Перетащите Виджет на сайт, зажав левую кнопку мыши",
+	"site preview": "Предпросмотр",
+	"preview": "Превью",
+	"empty blocks": "Пустые блоки",
+	"block title": "Название блока",
+	"there is no blocks in this category": "В этой категории нет блоков",
+	"borders detached": "Не прикрепленный к границам экрана",
+	"borders attached": "Прикрепленный к границам экрана",
+	"block with container": "Блок с контейнером",
+	"block fluid": "Резиновый блок",
+	"block descriptions": {
+		"block-empty": {
+			"title": "Блок с контейнером",
+			"description": "<p>Виджеты в этом блоке не растягиваются на ширину экрана.</p><p>Рекомендуется использовать этот блок для виджетов Текст, Карточка, Заголовок и других текстовых виджетов.</p>"
+		},
+		"block-empty-fluid": {
+			"title": "Резиновый блок",
+			"description": "<p>Растягивается на всю ширину экрана.</p><p>Не рекомендуется использовать для текстовых виджетов. Используйте блок если нужно растянуть Слайдер или Галерею на весь экран.</p>"
+		}
+	},
+	"create block": "Создать блок",
+	"crop": "Кадрировать",
+	"Drag elements or block from the left panel": "Перетащите сюда Виджеты или Блоки из левой панели.",
+	"Drag elements from the left panel": "Перетащите сюда Виджеты из левой панели.",
+	"news": "Новости",
+	"add article": "Добавить запись",
+	"arrow": "Стрелки",
+	"pages": "Страницы",
+	"site pages": "Страницы сайта",
+	"there are not site pages": "Страниц нет",
+	"add page": "Добавить страницу",
+	"add orderForm": "Добавить окно",
+	"general pages": "Основные",
+	"special pages": "Служебные",
+	"orderForm pages": "Всплывающие окна",
+	"orderForm order saved successfully": "Порядок всплывающих окон успешно сохранен",
+	"shop pages": "Магазин",
+	"page __404 desc": "404 ошибка возникает, если страница не существует или неправильно введён адрес",
+	"page __privacy_policy desc": "Страница с Политикой конфиденциальности вашего сайта. Добавьте ссылку на нее в Меню",
+	"page __user_agreement desc": "Страница с Пользовательским соглашением вашего сайта. Добавьте ссылку на нее в Меню",
+	"page settings": "Настройки страницы",
+	"page not found": "Страница не найдена",
+	"page not found and is probaly removed": "Страницы, на которую вы попытались перейти, не существует. Вероятно, вы удалили ее",
+	"cannot go to page": "Переход на страницу невозможен",
+	"not valid text, please not use html": "Некорректные данные, не используйте html",
+	"link is probably external": "Вероятно, у пункта меню установлена внешняя ссылка",
+	"do you really want to remove the page": "Вы действительно хотите удалить страницу?",
+	"remove the page": "Удалить страницу",
+	"This action can not be undo": "Это действие нельзя отменить",
+	"common": "Основные",
+	"SEO": "seo",
+	"header": "Заголовок",
+	"namePage": "Название",
+	"shown in browser header": "Отображается в заголовке браузера",
+	"address cpu": "Адрес (ЧПУ)",
+	"shown in browser header example": "Отобажается в адресной строке браузера. Например, \"page\"",
+	"description": "Описание",
+	"description help": "Мета-тег \"Description\". Используется для описания страницы в поисковых системах",
+	"title tag": "Мета-тег \"Title\"",
+	"seo settings": {
+		"friendly URL description": "Отображается в адресной строке браузера",
+		"tag title": "Тег \"Title\"",
+		"tag title help": "Заголовок, говорящий о содержании данной страницы",
+		"meta description": "Метатег \"Description\"",
+		"meta description help": "Опишите парой предложений о чем эта страница",
+		"meta keywords": "Метатег \"Keywords\"",
+		"meta keywords help": "Введите 2-3 ключевых слова через запятую"
+	},
+	"keywords": "Ключевые слова",
+	"disallow page indexation": "Запретить индексирование страницы",
+	"meta keywords help": "Мета-тег \"Keywords\".  Cодержит список ключевых слов для поисковых систем",
+	"new page": "Новая страница",
+	"new orderForm": "Новое окно",
+	"new page type": "Выберите тип страницы",
+	"Page created successfully": "Страница успешно создана",
+	"Changes pages canceled": "Изменения страницы отменены",
+	"Page Settings saved": "Настройки страницы сохранены",
+	"Revert changes": "Вернуть изменения",
+	"new page settings": "Настройки новой страницы",
+	"number of columns": "Количество столбцов",
+	"page": "Страница",
+	"portfolio": "Портфолио",
+	"thin settings": "Тонкие настройки",
+	"settings image": "Настройки изображения",
+	"color": "Цвет",
+	"colors": "Цвета",
+	"opacity": "Прозрачность",
+	"image": "Изображение",
+	"map": "Карта",
+	"structure": "Структура",
+	"block": "Блок",
+	"block404": "Страница 404",
+	"empty block handler name": "Пустой блок",
+	"container": "Контейнер",
+	"container with padding": "С&nbsp;полями у&nbsp;виджетов",
+	"container without padding": "Без полей у&nbsp;виджетов",
+	"widget adjustment height": "Выравнивать Карточки по высоте",
+	"widgets settings": "Виджеты",
+	"fluid block": "Резиновый",
+	"alt image": "alt изображения",
+	"color scheme": "Цветовая схема",
+	"addNew": "Создать свою схему",
+	"site background": "Фон сайта",
+	"apply the background for current page": "Применять фон только для текущей страницы",
+	"my color schemes": "Мои схемы",
+	"create own color scheme": "Создать свою схему",
+	"create color scheme": "Создать схему",
+	"preview color": "Цвет превью",
+	"basic": "Основные",
+	"special": "Контент",
+	"content": "Контент",
+	"ecommerce": "Интернет-магазин",
+	"mmedia": "Медиа",
+	"social": "Социальные",
+	"contacts": "Контакты",
+	"layout": "Структура",
+	"external": "Внешние",
+	"position": "Положение",
+	"align": "Выравнивание",
+	"repeat": "Повторение",
+	"backgroundText1": "Цвет текста 1 ",
+	"backgroundText2": "Цвет текста 2 ",
+	"backgroundText3": "Цвет текста 3 ",
+	"backgroundColor": "Цвет фона",
+	"background color": "Цвет подложки",
+	"parallax effect": "Параллакс",
+	"show example": "Показать пример",
+	"hide example": "Скрыть пример",
+	"align button visual cecutient": "Выравнивание иконки",
+	"background color cecutient line": "Цвет полоски",
+	"select parallax": "Параллакс",
+	"select background fixed": "Фиксированное",
+	"fixed background on scroll": "Фиксировать при прокрутке",
+	"setting background": "Параметры",
+	"select parallax off": "Без параллакса",
+	"parallax notes": "Создает эффект глубины за счет анимации фона",
+	"parallax speed": "Скорость прокрутки",
+	"parallax zoom": "Высота изображения",
+	"fill width": "Растянуть на всю ширину",
+	"tile": "Замостить",
+	"fill width 2": "По ширине",
+	"tile 2": "Плиткой",
+	"customize element in left panel": "Настройте элемент<br> в левой панели",
+	"info header not add elements": "Тяните ниже, в шапку нельзя добавить Виджет ",
+	"info footer not add elements": "Тяните выше, в подвал нельзя добавить Виджет ",
+	"image library": "Библиотека изображений",
+	"uploaded": "Загрузка",
+	"thematic": "Тематические",
+	"from social apps": "Социальные",
+	"images": "Изображения",
+	"under image": "под изображением",
+	"there are not albums with images": "Нет альбомов с изображениями",
+	"there are not images in this album": "В этом альбоме нет изображений",
+	"load more": "Загрузить ещё",
+	"add app": "Подключить сеть",
+	"add your images from social apps": "Добавьте ваши изображения из социальных сетей",
+	"there are not images, load images": "В этой категории изображений нет. Загрузите изображения",
+	"there are not images, try other category": "В этой категории изображений нет. Попробуйте другую",
+	"to page": "На страницу",
+	"to popup": "На всплывающее окно",
+	"open in new window": "Открыть в новом окне",
+	"link on page": "Ссылка на страницу",
+	"link on popover": "На всплывающее окно",
+	"throw for start upload": "Отпустите чтобы начать загрузку",
+	"replace from lib": "Заменить из библиотеки",
+	"uploaded percents": "Загрузка",
+	"upload complete": "Загрузка завершена",
+	"upload again": "Загрузить еще раз",
+	"uploaded file is not image": "Файл {fileName} не может быть загружен",
+	"uploaded file mime type error": "Неподдерживаемый тип файла {fileName}",
+	"too many files": {
+		"[0-9]*(0|5|6|7|8|9)$": "Слишком много файлов. Максимальное количество {count} файлов",
+		"[0-9]*(1)$": "Слишком много файлов. Максимальное количество {count} файл",
+		"[0-9]*(2|3|4)$": "Слишком много файлов. Максимальное количество {count} файла",
+		"(11|12|13|14|15|16|17|18|19)$": "Слишком много файлов. Максимальное количество {count} файлов"
+	},
+	"too empty file": "Пустой файл",
+	"too big file": "Файл {fileName} слишком большой. Максимум: {size} МБ",
+	"from computer": "С компьютера",
+	"drop file here for replace": "или перетащите сюда файл для замены",
+	"element has been added": "Виджет уже добавлен",
+	"hide rgb": "Свернуть rgb",
+	"duplication prohibited": "Только один %1 может быть на странице одновременно",
+	"fixed recomended": "Рекомендуемое место",
+	"fixed replace": "будет заменен на ",
+	"download": "Скачать",
+	"add contact": "Добавить контакт",
+	"Position, address": "Должность, статус и тп.",
+	"comment": "Отзыв",
+	"not correct select design. Need enter one value": "Неверно задан дизайн. Необходимо одно из значений",
+	"name": "Имя",
+	"change": "Заменить",
+	"paste the generated code": "Вставьте сгенерированный код",
+	"text comment": "Текст отзыва",
+	"text in sharing social": "Текст который будет показываться в публикуемой записи (в%1некоторых социальных сетях)",
+	"select design comments": "Выберите дизайн отзывов",
+	"avatar": "Аватар",
+	"advanced field": "Дополнительное поле",
+	"add more": "Добавить еще",
+	"comments": "ОТЗЫВЫ",
+	"edit slider": "Редактирование слайдера",
+	"add image": "Добавить изображение",
+	"add filed": "Добавить поле",
+	"show images": "Показывать изображений",
+	"settings button": "Настройки кнопок",
+	"size button": "Размер кнопки",
+	"sizeButtonsValues": {
+		"small": "Маленький",
+		"medium": "Средний",
+		"large": "Большой"
+	},
+	"sec": "сек",
+	"change slide via": "Смена слайда через",
+	"auto scroll": "Автопрокрутка",
+	"animation": "Анимация",
+	"ico": "Иконка",
+	"jaw": "Плашка",
+	"text": "Текст",
+	"picture": "Картинка",
+	"open to new window": "Открывать в новом окне",
+	"elements": "Виджеты",
+	"slider": "Слайдер",
+	"social networks": "Социальные сети",
+	"select social networks": "Выбрать соц. сети",
+	"add": "Добавить",
+	"upbutton": "Кнопка \"Наверх\"",
+	"upbutton2": "Кнопка Наверх",
+	"cecutient": {
+		"enable description": "Иконка перехода добавлена в шапку",
+		"edit": "Настроить"
+	},
+	"cecutient enable": "Активировать версию для слабовидящих",
+	"cecutient enable description": "Иконка перехода на версию добавлена в Шапку",
+	"cecutient panel enabled": "Перейти на версию для слабовидящих",
+	"cecutient panel access": "Доступно в предпросмотре и на опубликованном сайте",
+	"cecutient panel": "Версия сайта для слабовидящих",
+	"cecutient panel options": {
+		"font size": "Размер шрифта",
+		"font size title": {
+			"small": "Маленький",
+			"medium": "Средний",
+			"max": "Большой"
+		},
+		"color scheme": "Цветовая схема",
+		"color scheme title": {
+			"black and white": "Черный на белом",
+			"white and black": "Белый на черном",
+			"dark blue on blue": "Темно-синий на синем"
+		},
+		"images": "Изображения",
+		"images show": "Показаны",
+		"image not grayscale": "Цветные"
+	},
+	"cecutient panel disabled": "Обычная версия",
+	"cecutient panel hide": "Свернуть панель",
+	"cecutient panel show": "Развернуть панель",
+	"show upbutton": "Показывать кнопку",
+	"widget title": "Заголовок виджета",
+	"show": "Показывать",
+	"select design": "Выберите дизайн",
+	"select": "Выберите",
+	"design": "Дизайн",
+	"designn": "Дизайн %1",
+	"my social network": "МОИ СОЦ. СЕТИ",
+	"enter header": "Введите заголовок",
+	"enter description": "Введите описание",
+	"enter keyword": "Введите ключевые слова",
+	"holiday": "Выходной",
+	"day and night": "Круглосуточно",
+	"work time": "РАБОЧЕE ВРЕМЯ",
+	"begin write": "Начните писать",
+	"insert": "Вставка",
+	"hover": "при наведении",
+	"settings": "Настройки",
+	"text color": "Цвет текста",
+	"style": "Стиль",
+	"blocks": "Блоки",
+	"screen phone": "Экран телефона",
+	"screen tablet": "Экран планшета",
+	"screen monitor": "Экран монитора",
+	"back": "Назад",
+	"save": "Сохранить",
+	"tag keywords contains list keywords for search engine": "Мета-тег \"Keywords\"",
+	"tag description use in search engine": "Мета-тег \"Description\"",
+	"show in browser address": "Отображается в адресной строке браузера. Например, \"page\"",
+	"address chpu": "Адрес (ЧПУ)",
+	"show in browser header": "Отображается в списке страниц",
+	"main": "Основные",
+	"no pages": "Страниц нет",
+	"class block": "Классы блока",
+	"spacer": "Пробел",
+	"sliderbackground": "Слайдер фон",
+	"sliderWysiwyg": "sliderWysiwyg",
+	"contactsForm": "Связь",
+	"downloadFile": "Файл",
+	"ecwid": "Магазин Ecwid",
+	"slideshare": "SlideShare",
+	"mailchimp": "MailChimp",
+	"ucalc": "Калькулятор услуг",
+	"feedBack": "Обратная связь",
+	"mainmenu": "Меню",
+	"menu": "Меню",
+	"imagezoom": "Картинка",
+	"table": "Таблица",
+	"gallery": "Галерея",
+	"goods": "Товар/услуга",
+	"goodsGrid": "Товары/услуги",
+	"maps": "Карта",
+	"worktime": "Рабочее время",
+	"button": "Кнопка",
+	"wysiwyg": "Текст",
+	"socialGroups": "Соц группы",
+	"socialButtons": "Социальные кнопки",
+	"instagram": "Instagram",
+	"pinterest": "Pinterest",
+	"facebookLikeBox": "Facebook",
+	"blog": "Новости",
+	"comments word": "Комментарии",
+	"yandex": "Яндекс",
+	"review": "Отзывы",
+	"price": "Прайс",
+	"icon": "Иконка",
+	"link": "Ссылка",
+	"video": "Видео",
+	"audio": "SoundCloud",
+	"default": "Стандарт",
+	"counter": "Счетчик",
+	"record": "Запись",
+	"draft": "Черновик",
+	"link on video": "Ссылка на видео",
+	"enter link on video": "Вставьте ссылку на видео",
+	"enter link on video from": "Вставьте ссылку на видео из <a href=\"http://www.youtube.com/\" target=\"_blank\">YouTube</a>, <a href=\"https://vimeo.com/\" target=\"_blank\">Vimeo</a>, <a href=\"http://rutube.ru/\" target=\"_blank\">RuTube</a> и другие",
+	"video in progress": "Обработка видео...",
+	"link in progress": "Ссылка обрабатывается...",
+	"link is added": "Ссылка успешно обработана",
+	"this field not be empty": "Это поле не должно быть пустым",
+	"invalid url": "Некорректная ссылка на видео",
+	"zoom by click": "Увеличение по клику",
+	"outer link": "Внешняя ссылка",
+	"appearance": "Внешний вид",
+	"outer": "Внешняя",
+	"delete": "Удалить",
+	"hide": "Скрыть",
+	"edit": "Редактировать",
+	"view": "Смотреть",
+	"account": "Аккаунт",
+	"bind": "Подключить",
+	"unbind": "Отвязать",
+	"support": "Поддержка",
+	"author": "Автор",
+	"clear": "Очистить",
+	"widgets": {
+		"header": {
+			"name": "Заголовок",
+			"description": "Заголовки помогают организовать и тематически сгруппировать информацию"
+		},
+		"wysiwyg": {
+			"name": "Текст",
+			"description": "Основное содержимое любого сайта. Вы можете выбрать стиль, начертание или цвет текста."
+		},
+		"imagezoom": {
+			"name": "Картинка",
+			"description": "Загрузите свою картинку или выберите из библиотеки"
+		},
+		"table": {
+			"name": "Таблица",
+			"description": "Используйте таблицы для удобного отображения больших объемов информации"
+		},
+		"gallery": {
+			"name": "Галерея",
+			"description": "Поможет вам красиво организовать и показать фотографии"
+		},
+		"sliderWysiwyg": {
+			"name": "Слайдер",
+			"description": "Содержит слайды, каждый из которых может иметь свой текст и оформление"
+		},
+		"button": {
+			"name": "Кнопка",
+			"description": "Кнопка служит для оформления призыва к действию или ссылки"
+		},
+		"icon": {
+			"name": "Иконка",
+			"description": "Помогает раскрыть и дополнить содержание текста с помощью визуального образа"
+		},
+		"goods": {
+			"name": "Карточка",
+			"description": "Используйте для оформления описаний товаров, услуг, особенностей, предложений и т.д."
+		},
+		"price": {
+			"name": "Прайс",
+			"description": "Список ваших товаров или услуг с кратким описанием и ценой"
+		},
+		"review": {
+			"name": "Отзывы",
+			"description": "От 1 до 9 отзывов о ваших товарах, услугах или работе"
+		},
+		"downloadFile": {
+			"name": "Файл",
+			"description": "Документ, программа или любой другой файл, который можно будет скачать с вашего сайта"
+		},
+		"ecwid": {
+			"name": "Магазин Ecwid",
+			"description": "Виджет интернет-магазина от сервиса  Ecwid"
+		},
+		"slideshare": {
+			"name": "SlideShare",
+			"description": "Сервис для размещения готовых презентаций, текстовых документов и видео"
+		},
+		"mailchimp": {
+			"name": "MailChimp",
+			"description": "Сервис e-mail рассылок: добавьте форму на свой сайт и собирайте подписчиков"
+		},
+		"ucalc": {
+			"name": "Калькулятор услуг",
+			"description": "Сервис uCalc поможет создать калькулятор для расчёта стоимости сложных услуг"
+		},
+		"video": {
+			"name": "Видео",
+			"description": "Позволит разместить на сайте видео с youtube  или любого другого видеохостинга"
+		},
+		"maps": {
+			"name": "Карта",
+			"description": "Позволяет показать любые нужные вам адреса"
+		},
+		"feedBack": {
+			"name": "Обратная связь",
+			"description": "Используйте этот виджет для создания формы связи, заявки, отзыва и т.д."
+		},
+		"contacts": {
+			"name": "Контакты",
+			"description": "Адреса и телефоны ваших офисов или ваши личные контактные данные"
+		},
+		"social": {
+			"name": "Соцсети",
+			"description": "Набор ссылок на ваши аккаунты или группы в&nbsp;социальных сетях"
+		},
+		"socialGroups": {
+			"name": "Вконтакте",
+			"description": "Показывает подписчиков вашего сообщества в&nbsp;социальной сети Вконтакте"
+		},
+		"instagram": {
+			"name": "Instagram",
+			"description": "Фотографии вашего профиля Instagram или&nbsp;по&nbsp;вашему любимому хештегу"
+		},
+		"pinterest": {
+			"name": "Pinterest",
+			"description": "Изображения из ваших фотоподборок (досок) в&nbsp;Pinterest"
+		},
+		"facebookLikeBox": {
+			"name": "Facebook",
+			"description": "Показывает новости и пользователей, которым понравилась ваша страница в Facebook"
+		},
+		"odnoklassnikiLikeBox": {
+			"name": "ОК",
+			"description": "Участники вашей группы в социальной сети Одноклассники"
+		},
+		"twitterLikeBox": {
+			"name": "Twitter",
+			"description": "Показывает сообщения вашего аккаунта в Twitter"
+		},
+		"spacer": {
+			"name": "Пробел",
+			"description": "Для создания пустого пространства между виджетами"
+		},
+		"border": {
+			"name": "Разделитель",
+			"description": "Пригодится вам для красивого отделения элементов сайта друг от друга"
+		},
+		"mainmenu": {
+			"name": "Меню",
+			"description": "Навигация по страницам сайта"
+		},
+		"worktime": {
+			"name": "Расписание",
+			"description": ""
+		},
+		"bloquote": {
+			"name": "Цитата",
+			"description": "Оформленный кавычками текст с указанием авторства"
+		},
+		"googlesearch": {
+			"name": "Поиск Google",
+			"description": "Поиск информации на вашем сайте"
+		},
+		"jivosite": {
+			"name": "Jivosite",
+			"description": "JivoSite позволяет Вам общаться в чате с посетителями Вашего сайта"
+		},
+		"backCall": {
+			"name": "Заказать звонок",
+			"description": "Сервис заказа обратного звонка с сайта"
+		},
+		"addThisShareBar": {
+			"name": "AddThis сайдбар",
+			"description": "Простой инструмент для добавления панели с кнопками \"Поделиться\" на ваш сайт"
+		},
+		"liveAgent": {
+			"name": "LiveAgent",
+			"description": "Сервис онлайн чата для вашего сайта"
+		},
+		"yandexSearch": {
+			"name": "Поиск Яндекс",
+			"description": "Поиск по сайту"
+		},
+		"timer": {
+			"name": "Таймер",
+			"description": ""
+		},
+		"newsInformer": {
+			"name": "Информер новостей",
+			"description": "Выводит последние добавленные новости"
+		},
+		"liveChat": {
+			"name": "LiveChat",
+			"description": "Сервис онлайн чата"
+		},
+		"audio": {
+			"name": "SoundCloud",
+			"description": "Позволят размещать музыкальные треки с сервиса SoundCloud на вашем сайте"
+		},
+		"customHtml": {
+			"name": "Html-код",
+			"description": "Виджет позволяет встраивать и редактировать произвольный код на страницах сайта"
+		},
+		"weather": {
+			"name": "Погода",
+			"description": "Погода для вашего сайта"
+		},
+		"productCard": {
+			"name": "Товар магазина",
+			"description": "Товар встроенного модуля интернет-магазина от %1"
+		},
+		"cart": {
+			"name": "Корзина",
+			"description": "Описание виджета корзина"
+		},
+		"checkout": {
+			"name": "Оформить заказ",
+			"description": "Описание виджета оформить заказ"
+		},
+		"extendedCart": {
+			"name": "Список товаров",
+			"description": "Описание виджета 'Список товаров'"
+		},
+		"shipping": {
+			"name": "Доставка",
+			"description": "Описание виджета 'Доставка'"
+		},
+		"payment": {
+			"name": "Оплата",
+			"description": "Описание виджета 'Оплата'"
+		},
+		"customerInfo": {
+			"name": "Информация о пользователе",
+			"description": "Описание виджета 'Информация о юзвере'"
+		},
+		"uSocial": {
+			"name": "Поделиться в соцсетях"
+		},
+		"stages": {
+			"name": "Этапы",
+			"description": "Горизонтальное оформление перечня каких-либо пунктов, например, блок «Как это работает»"
+		},
+		"timeline": {
+			"name": "Таймлайн",
+			"description": "Вертикальное оформление пунктов, например, расписание, программа конференций и т.д."
+		}
+	},
+	"blocksTypes": {
+		"header": "Шапка",
+		"footer": "Подвал",
+		"headers": "Заголовки",
+		"content": "Контент",
+		"thematic": "Тематические",
+		"contacts": "Контакты",
+		"empty": "Пустые",
+		"favorites": "Избранное"
+	},
+	"blockNames": {
+		"header N": "Заголовок %1",
+		"footer": "Подвал %1",
+		"headers": "Заголовок %1",
+		"content": "Контент %1",
+		"thematic": "Тематический %1",
+		"contacts": "Контакты %1",
+		"empty": "Пустой %1",
+		"favorites": "Избранное"
+	},
+	"under construction": "В разработке",
+	"editor": {
+		"note": "Примечание",
+		"normal": "Обычный",
+		"bold": "Жирный",
+		"italic": "Курсив",
+		"justifyleft": "Выравнивание слева",
+		"justifycenter": "Выравнивание по центру",
+		"justifyright": "Выравнивание справа",
+		"insertorderedlist": "Нумерованный список",
+		"insertunorderedlist": "Маркированный список",
+		"image": "Изображение",
+		"link": "Ссылка",
+		"edit": "Редактировать",
+		"header1": "Заголовок 1",
+		"header2": "Заголовок 2",
+		"header3": "Заголовок 3",
+		"header4": "Заголовок 4",
+		"paragraph": "Параграф",
+		"important": "Важное",
+		"node": "Примечание",
+		"style": "Стиль",
+		"colors": "Цвет",
+		"design": "Оформление",
+		"crop": "Кадрировать",
+		"more": "Читать далее",
+		"use tag": "Использовать тег <%1>",
+		"video": "Видео",
+		"button ReadMore": "Разделитель \"Читать далее\"",
+		"button Image": "Картинка",
+		"button Video": "Видео",
+		"button bold": "Жирный",
+		"button italic": "Курсив",
+		"button link": "Ссылка",
+		"button color": "Цвет",
+		"button align": "Выравнивание",
+		"button typo": "Стиль",
+		"button extra": "Дополнительно",
+		"button unordered": "Список",
+		"button ordered": "Нумерованный список",
+		"button underline": "Подчеркивание",
+		"button strikethrough": "Перечеркивание",
+		"button clear": "Очистить форматирование"
+	},
+	"imagelib": {
+		"title": "Библиотека изображений",
+		"select": "Выбрать",
+		"clear": "Сбросить",
+		"images": "Изображений",
+		"pages": {
+			"loaded": {
+				"title": "Загруженное",
+				"placeholder": "В этой категории изображений нет. Загрузите изображения"
+			},
+			"thematic": {
+				"title": "Тематические",
+				"placeholder": "В этой категории изображений нет. Попробуйте другую"
+			},
+			"stock": {
+				"title": "Фотобанк",
+				"category": "Категория",
+				"choose": "Выберите",
+				"search": "Поиск",
+				"enter searchword": "Введите слово",
+				"placeholder": "Выберите категорию из выпадающего списка"
+			},
+			"social": {
+				"title": "Социальные сети",
+				"placeholder": "Добавьте ваши изображения из социальных сетей",
+				"add": "Подключить сеть",
+				"no-albums": "Нет альбомов с изображениями :(",
+				"no-images": "В этом альбоме нет изображений :(",
+				"loadmore": "Загрузить ещё"
+			}
+		},
+		"count images": {
+			"[0-9]*(0|5|6|7|8|9)$": "%1 изображений",
+			"[0-9]*(1)$": "%1 изображение",
+			"[0-9]*(2|3|4)$": "%1 изображения",
+			"(11|12|13|14|15|16|17|18|19)$": "%1 изображений"
+		}
+	},
+	"orderForm": {
+		"unconfirmed1": "Письма с формы не отправляются. Ваш&nbsp;основной e-mail не подтверждён.",
+		"unconfirmed2": "Для подтверждения проверьте почту и перейдите по ссылке из письма.",
+		"send": "%1Отправить повторное подтверждение%2",
+		"sent": "Подтверждение отправлено",
+		"page selection": "Выбор страниц",
+		"all pages": "Все страницы",
+		"no open in preview": "Нельзя отправлять заявки в режиме конструктора",
+		"miskDataSettings": "Товар или услуга",
+		"service": "Товар или услуга",
+		"showTitleMiskData": "Показывать заголовок поля",
+		"changes saved": "Изменения сохранены",
+		"repeat send": {
+			"[0-9]*(0|5|6|7|8|9)$": "Повторно отправить заявку можно будет через %1 секунд",
+			"[0-9]*(1)$": "Повторно отправить заявку можно будет через %1 секунду",
+			"[0-9]*(2|3|4)$": "Повторно отправить заявку можно будет через %1 секунды",
+			"(11|12|13|14|15|16|17|18|19)$": "Повторно отправить заявку можно будет через %1 секунд"
+		},
+		"adSettings": "Тонкие настройки",
+		"emptyTitle": "Всплывающее окно",
+		"name": "Всплывающее окно",
+		"caption desc": "В это поле автоматически подставляется название товара/услуги из виджетов Карточка или Прайс",
+		"copy": "-копия",
+		"form name": "Форма",
+		"fields": "Поля",
+		"field select": "Выбрать поле",
+		"field input": "Маленькое поле",
+		"field text": "Большое поле",
+		"field email": "E-mail",
+		"field phone": "Телефон",
+		"field name input": "Имя",
+		"field file": "Файл",
+		"field userAgreement": "Согласие на сбор",
+		"field user agreement": "Согласие на сбор данных",
+		"tooltip required": "Сделать обязательным",
+		"tooltip not required": "Сделать необязательным",
+		"msgAfterSend": "Сообщение после отправки",
+		"sendTo": "Куда отправлять",
+		"diff email": "Другой e-mail",
+		"field name": "Заголовок поля",
+		"field desc": "Подпись к полю",
+		"text in field": "Плейсхолдер",
+		"field size": "Высота поля",
+		"sm": "Маленькая",
+		"md": "Средняя",
+		"lg": "Большая",
+		"field type": "Тип поля",
+		"field user agreement def": "Активирована по умолчанию",
+		"empty field error": "Заполните поле",
+		"email field error": "Укажите правильный e-mail",
+		"user agreement field error": "",
+		"process": "Отправляем..",
+		"server error": "Что то пошло не так :(",
+		"willShowWidgetData": "Здесь будет название из элементов Карточка или Прайс",
+		"miskDataTitle placeholder": "Введите заголовок товара или услуги",
+		"title placeholder": "Введите название формы",
+		"field placeholder": "Введите заголовок поля",
+		"note placeholder": "Введите подпись",
+		"btn placeholder": "Введите текст кнопки",
+		"add field": "Добавить поле",
+		"attach file": "Прикрепить файл",
+		"file field description": "Возможность прикрепить файл до 5 МБ в следующих форматах: txt, docx, pdf, jpeg, png, gif, bmp, zip.",
+		"requiredSettings": {
+			"mark required field": "Метка обязательного поля",
+			"star": "Звездочкой",
+			"text": "Текстом",
+			"notRequired": "Помечать только необязательные поля",
+			"textTitle": "Текст метки",
+			"notRequiredTitle": "Текст метки",
+			"notRequiredData": "Способ делает форму простой для восприятия, если у вас большинство обязательных полей"
+		},
+		"def": {
+			"input": "Маленькое поле",
+			"enter input": "Плейсхолдер",
+			"input example": "Подпись должна пояснять назначение поля",
+			"text": "Большое поле",
+			"enter text": "Плейсхолдер",
+			"text example": "Подпись должна пояснять назначение поля",
+			"email": "E-mail",
+			"enter email": "Введите e-mail",
+			"email example": "Укажите почту, чтобы мы могли с вами связаться",
+			"phone": "Телефон",
+			"enter phone": "Введите телефон",
+			"phone example": "Например, +7 888 123 45 67. Телефон поможет нам быстрее  связаться с вами",
+			"name": "Имя",
+			"enter name": "Введите Имя",
+			"name example": "Ваше Имя",
+			"file": "Файл",
+			"enter file": "",
+			"enter example": "",
+			"msgAfterSend": "Ваш заказ принят. Спасибо за обращение!",
+			"title": "Новое окно",
+			"btn": "Отправить",
+			"miskDataTitle": "Товар или услуга",
+			"not required": "необязательно",
+			"required": "обязательно",
+			"your messages": "Ваше сообщение",
+			"message sent": "Спасибо, ваше сообщение отправлено!",
+			"contact us": "Обратная связь",
+			"product or service": "Продукт или услуга",
+			"give details of the order": "Сообщите нам подробности заказа",
+			"comment to the order": "Комментарий к заказу",
+			"product order": "Заказ товара",
+			"product": "Товар",
+			"order": "Заказать",
+			"ordering services": "Заказ услуги",
+			"your message": "Ваше сообщение",
+			"service": "Услуга",
+			"userAgreement": "Согласие на сбор данных",
+			"enter userAgreement": "",
+			"userAgreement example": "<p>Я согласен на обработку <a href=\"/__privacy_policy\" target=\"_blank\" rel=\"nofollow\">персональных данных</a> и с условиями <a href=\"/__user_agreement\" target=\"_blank\" rel=\"nofollow\">пользовательского соглашения</a></p>"
+		},
+		"errors": {
+			"attach file": "Прикрепите файл",
+			"too big files size": "Размер прикрепленных файлов слишком большой. Максимум: %1 МБ.",
+			"wrong file type": "Неверный тип файла. Можно загрузить txt, docx, pdf, jpeg, png, gif, bmp, zip"
+		},
+		"mail": {
+			"subject": "Сообщение через форму \"%1\""
+		},
+		"amoCRM": {
+			"title": "Сделка из формы %1"
+		},
+		"triggers": {
+			"name": "Опции появления",
+			"options": {
+				"button": {
+					"title": "Клик в кнопку",
+					"text": "Для показа по клику,<br>привяжите ссылку к кнопке"
+				},
+				"timer": {
+					"title": "По таймеру",
+					"duration time": "секунд"
+				},
+				"scroll": "При скролле",
+				"close tab": "При закрытии страницы"
+			}
+		}
+	},
+	"n valid text, please not use html": "Не используйте HTML",
+	"Page exist": "Страница уже существует",
+	"Page bad address": "Недопустимый адрес страницы",
+	"not valid id page": "Недопустимое имя страницы",
+	"not valid id post": "Недопустимое имя страницы",
+	"news settings": "Настройки новостей",
+	"Path `title` is required": "Укажите заголовок страницы",
+	"Path `id` is required": "Укажите ЧПУ страницы",
+	"Page id already in use": "Адрес страницы уже занят",
+	"Pages order saved successfully": "Порядок страниц успешно сохранен",
+	"services": "Сервисы",
+	"site logo": "Логотип сайта",
+	"logo": "Логотип сайта",
+	"footerText": "Текст",
+	"copyright": "Копирайт",
+	"siteName": "Название сайта",
+	"tagline": "Слоган",
+	"show_mobile": "Показывать на мобильных",
+	"for_mobile": "Для мобильных",
+	"footerGal": "Галерея",
+	"backup restore error": "Восстановление из бекапа временно невозможно, идут технические работы. Попробуйте повторить через час",
+	"code editor": "Редактор кода",
+	"create popup": "Создать всплывающее окно",
+	"add link": "Добавьте ссылку",
+	"search": "Поиск",
+	"search results": "Результаты поиска",
+	"we have not found a widget": "По такому запросу мы не нашли виджет",
+	"we have not found a pages": "По такому запросу мы не нашли страницу",
+	"try WIDGETNAME_1 or WIDGETNAME_2": "Попробуйте «%1» или «%2»",
+	"linkPopover": {
+		"link to": "Ссылка на",
+		"outer": "внешнюю страницу",
+		"anchor": "якорь",
+		"inner": "страницу",
+		"orderForm": "всплывающее окно",
+		"error outer": "Введите ссылку",
+		"error inner": "Выберите страницу",
+		"error orderForm": "Выберите всплывающее окно",
+		"error orderForm empty": "Создайте окно",
+		"title alert orderForm remove": "Все ссылки на это окно перестанут работать",
+		"text alert orderForm remove": "Отменить данную операцию невозможно. Удалить?",
+		"btn alert orderForm remove": "Удалить",
+		"not exist": {
+			"anchor": "несуществующий якорь",
+			"inner": "несуществующую страницу",
+			"orderForm": "несуществующее всплывающее окно"
+		},
+		"edit": {
+			"outer": "Внешняя",
+			"inner": "На страницу",
+			"orderForm": "На всплывающее окно"
+		}
+	},
+	"site header": "Шапка сайта",
+	"site footer": "Подвал сайта",
+	"PAGENAME page": "Страница %1",
+	"prouser widget edit alert": "Редактирование этого виджета доступно только pro-пользователям",
+	"panel-pages": {
+		"copy": "Дублировать",
+		"preview": "Смотреть",
+		"settings": "Настройки",
+		"remove": "Удалить"
+	},
+	"copy": "Дублировать",
+	"copy to page": {
+		"copy to another page": "Копировать на другую страницу",
+		"copy": "Копировать",
+		"to another page": "на другую страницу",
+		"errors": {
+			"no pages for copy": "Нет страниц для копирования"
+		}
+	},
+	"too big sum size": "Общая сумма загрузки файлов {sumSize} Мб больше допустимой {maxSumSize} Мб",
+	"wrong file type": "Неверный тип файла {fileName}. Можно загрузить txt, docx, pdf, jpeg, png, gif, bmp, zip",
+	"site template": "Шаблон сайта",
+	"switch template": "Сменить шаблон",
+	"site block": "Публикация сайта заблокирована",
+	"tooltip theme settings": "Редактировать",
+	"tooltip remove scheme": "Удалить",
+	"tooltip clone scheme": "Дублировать схему",
+	"do you want to remove the cs": "Удалить цветовую схему?",
+	"upload by url": {
+		"back": "Назад",
+		"upload": "Загрузить",
+		"again": "Еще раз",
+		"paste url here": "Вставьте ссылку",
+		"choose way": {
+			"from computer": "С компьютера",
+			"or": "или",
+			"by url": "По ссылке",
+			"or drag and drop here file to replace": "или перетащите сюда файл для замены"
+		},
+		"error": {
+			"connection aborted try again": "Соединение прервано.<br>Попробуйте еще раз",
+			"unacceptable mime type": "Только .jpg, .png или .gif",
+			"file size limit exceeded": "Максимальный размер — 5 МБ",
+			"url not found": "Указанный адрес не найден",
+			"unknown error code": "Неизвестный код ошибки",
+			"no url": "Не передан url для загрузки изображения",
+			"invalid url": "Некорректный урл для загрузки изображения",
+			"image processing error": "Ошибка при обработке изображения",
+			"server connection error": "Ошибка при скачивании файла",
+			"remote file not found": "Изображение по указанному пути отсутствует",
+			"unsupported protocol": "Неподдерживаемый протокол",
+			"mime type is not acceptable": "Недопустимый тип файла",
+			"some upload error": "Ошибка при загрузке файла"
+		}
+	},
+	"goals": {
+		"pubslih your website before using goals": "Перед тем, как подключить цели, опубликуйте свой сайт",
+		"sectionName": {
+			"yandex": "Цель в Яндекс.Метрике",
+			"google": "Цель в Google Analytics"
+		},
+		"need analytics to be connected": {
+			"yandex": "Для того чтобы цели заработали, необходимо подключить Яндекс.Метрику",
+			"google": "Для того чтобы цели заработали, необходимо подключить Google Analytics"
+		},
+		"connect": "Подключить",
+		"I have already connected": "Я уже подключил",
+		"action": "Действие",
+		"title": "Название",
+		"identifier": "Идентификатор",
+		"label": "Ярлык",
+		"copy": "Скопировать",
+		"label has been copied to clipboard": "Ярлык скопирован в буфер обмена",
+		"category has been copied to clipboard": "Категория скопирована в буфер обмена",
+		"action has been copied to clipboard": "Действие скопировано в буфер обмена",
+		"worth has been copied to clipboard": "Ценность скопирована в буфер обмена",
+		"create goal": "Создать цель",
+		"goal editing": "Редактирование цели",
+		"goal add process is running": "Цель добавляется...",
+		"goal has been added automatically": "Цель добавлена автоматически",
+		"go and see it": "Посмотреть",
+		"this goal should be added by yourself": "Эту цель необходимо <a target=\"_blank\" href=\"%1\" title=\"Перейти на страницу добавления\">добавить</a> вручную, указав ярлык.",
+		"how to add a goal?": "Как добавить цель?",
+		"category": "Категория",
+		"worth": "Ценность",
+		"help": {
+			"title": "Сбор статистики",
+			"intro": "В&nbsp;этом разделе настроек вы&nbsp;можете подключить просмотр статистики по&nbsp;целям.",
+			"about goals": "О целях",
+			"what are goals": "Цель&nbsp;&mdash; это действие посетителя, в&nbsp;котором заинтересован владелец сайта: нажатие на&nbsp;кнопку, отправка заполненной формы, звонок <nobr>и т. д.</nobr> По&nbsp;целям можно смотреть статистику в&nbsp;Яндекс. Метрике и&nbsp;Google Analytics.",
+			"yandex and goals": "В&nbsp;Яндекс. Метрику цель добавляется автоматически. Через какое-то время вы&nbsp;можете смотреть статистику по&nbsp;добавленной цели.",
+			"read about goals in yandex metrics": "Почитать о&nbsp;целях в&nbsp;Яндекс.Метрике",
+			"google and goals": "В&nbsp;Google Analytics цель необходимо добавлять вручную. <a target=\"_blank\" href=\"%1\">Почитать о&nbsp;том, как это сделать</a>.",
+			"read about goals in google analytics": "Почитать о&nbsp;целях в&nbsp;Google Analytics"
+		},
+		"actionTitle": {
+			"widget": {
+				"feedBack": "Отправка заполненной формы",
+				"cart": "Клик по кнопке \"Оформить\"",
+				"downloadFile": "Скачивание файла",
+				"button": "Клик по кнопке",
+				"backCall": "Запрос на обратный звонок",
+				"productCard": "Клик по кнопке \"Купить\""
+			},
+			"orderForm": {
+				"orderForm": "Отправка заполненной формы"
+			}
+		},
+		"messages": {
+			"press KEY to copy": "Нажмите %1, чтобы скопировать"
+		},
+		"errors": {
+			"error while adding goal": "Ошибка при добавлении цели",
+			"error while editing goal": "Ошибка при редактировании цели",
+			"not supported": "Функция не поддерживается"
+		}
+	},
+	"publish window": {
+		"sait publish": "Сайт опубликован",
+		"show": "Посмотреть",
+		"dont show": "Не выводить больше",
+		"premium": "Премиум",
+		"premium title desc": "Откройте для себя все возможности",
+		"premium title desc2": "Все нужные возможности конструктора без рекламы. Лучший выбор для бизнеса",
+		"period": "мес",
+		"premium title": "Премиум",
+		"premium desc": "Все нужные возможности конструктора без рекламы. Лучший выбор для бизнеса",
+		"buy": "Купить",
+		"pro title": "Про",
+		"pro desc": "Дополнительные творческие возможности и интеграция кода — для профессионалов",
+		"bragging": "Заявите о себе",
+		"bragging desc": "Легко продвигайте сайт и делитесь новостями",
+		"share vk": "Расскажите о сайте во ВКонтакте",
+		"share fb": "Поделитесь сайтом в Facebook",
+		"share tw": "Напишите о сайте в Твиттере",
+		"new domain": "Новый домен",
+		"new domain desc": "Приобретите адрес вида",
+		"publishing": "Публикуем сайт",
+		"publishing text": "У вас много прекрасных страниц, подождите, пока мы их опубликуем"
+	},
+	"animate": {
+		"animation": "Анимация",
+		"turn widgets animation on": "Включить анимацию появления виджетов",
+		"page selection": "Выбор страниц",
+		"all pages": "Все страницы",
+		"select page": "Выбрать страницы"
+	},
+	"usercrop": {
+		"upload": "Заменить",
+		"title of titlePopup": "Подпись",
+		"title of seoPopup": "Настройки",
+		"title of cut": "Кадрировать",
+		"below image": "Под изображением",
+		"cover image": "Поверх изображения",
+		"on hover": "По наведению",
+		"seo": {
+			"description": "Заполненные атрибуты помогут появиться картинке в&nbsp;поисковых системах",
+			"alt": "Описывает содержание картинки для&nbsp;поисковых систем",
+			"title": "Дополнительная информация о&nbsp;картинке"
+		},
+		"no title": "Нет"
+	},
+	"favorite-blocks": {
+		"add block to favorites": "Добавить в Избранное",
+		"block added to favorites blocks section": "Блок добавлен в категорию «Избранное» на вкладке «Блоки»",
+		"block favorites title": "Блок %1",
+		"block favorites help": "Нажмите на иконку <span class=\"icon-content-special-star-stroke ul-favorits-default-help\"></span> у Блока и он появится здесь",
+		"nf remove block favorites": "Удалить «%1» из Избранного ?",
+		"block favorites remove error": "Ошибка при удалении избранного блока",
+		"block favorites add success": "Блок добавлен в категорию «Избранное» на вкладке «Блоки»",
+		"block favorites edit error": "Ошибка при редактировании избранного блока"
+	},
+	"block-settings": {
+		"structure": "Структура",
+		"structure settings": "Структура блока",
+		"background": "Фон",
+		"overlayColor": "Наложение цвета",
+		"imageSetting": "Настройки изображения",
+		"effects": "Эффекты",
+		"backgroundColor": "Подложка",
+		"block background": "Фон блока",
+		"block height": "Высота блока",
+		"block height content": "По контенту",
+		"block height screen": "По экрану",
+		"goods alignment": "Выравнивание карточек",
+		"goods alignment height": "По высоте",
+		"goods alignment content": "По контенту"
+	},
+	"loader": {
+		"constructor": {
+			"title": "Загружаем сайт",
+			"text": "Подождите немного, мы подгружаем страницы вашего сайта"
+		},
+		"publication": {
+			"title": "Публикуем сайт",
+			"text": "У вас много прекрасных страниц, подождите, пока мы их опубликуем"
+		},
+		"preview": {
+			"title": "Готовим сайт к&nbsp;предпросмотру"
+		},
+		"backup": {
+			"preview": {
+				"title": "Загружаем предпросмотр бекапа сайта"
+			},
+			"recovery": {
+				"title": "Восстанавливаем сайт из бекапа"
+			}
+		}
+	},
+	"typography": {
+		"typography": "Типографика",
+		"removePair": "Удалить пару?",
+		"logotype": "Логотип",
+		"price-big": "Цена, большой",
+		"price-small": "Цена, маленький",
+		"special-404-big": "404, большой",
+		"special-404-small": "404, маленький",
+		"timer": "Таймер",
+		"btn-big": "Кнопка, большая",
+		"btn-meddium": "Кнопка, средняя",
+		"btn-small": "Кнопка, маленькая",
+		"font-pairs": "Шрифтовые пары",
+		"font-pair": "Шрифтовая пара",
+		"fonts": "Шрифты",
+		"my-pairs": "Мои пары",
+		"create-pairs": "Создать пару",
+		"title": "Заголовок",
+		"plain-text": "Обычный текст",
+		"template-font": "Стандартная",
+		"default-fonts": "Шрифты по умолчанию",
+		"setting": {
+			"font": "Шрифт",
+			"popular": "Популярные",
+			"system": "Системные",
+			"inscription": "Начертание",
+			"size": "Размер",
+			"spacing": "Расстояние",
+			"line spacing": "Межстрочный интервал",
+			"auto": "По умолчанию",
+			"tune": "Настроить"
+		}
+	},
+	"panel-design": {
+		"colors": "Цвета",
+		"fonts": "Шрифты",
+		"advanced": "Дополнительно",
+		"template": "Шаблон"
+	},
+	"error-window": {
+		"oops": "Упс!",
+		"not-publish-site": "Не удалось опубликовать сайт",
+		"cancel": "Отменить",
+		"support": "Написать в техподдержку"
+	}
+}

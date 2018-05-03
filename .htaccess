@@ -1,0 +1,19 @@
+RewriteEngine On
+RewriteCond %{SERVER_PORT} !^443$
+RewriteRule .* https://%{SERVER_NAME}%{REQUEST_URI} [R,L]
+RewriteCond %{HTTP_HOST} ^islandgift\.ru$ [NC]
+RewriteRule .* https://www.%{SERVER_NAME}%{REQUEST_URI} [R,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^product/([^/]*)$ /product.php?productid=$1 [L]
+RewriteRule ^article/([^/]*)$ /article.php?article=$1 [L]
+RewriteRule ^siteerror/([^/]*)$ /siteerror.php?msg=$1 [L]
+
+RewriteRule ^([^.]+)$ $1.php [L]
+RewriteRule ^([^.]+)$ $1.html [L]
+
+RewriteRule ^rss/category.xml$ /rss/category [L]
+RewriteRule ^rss/product.xml$ /rss/product [L]
+RewriteRule ^rss/article.xml$ /rss/article [L]
+RewriteRule ^rss/islandgift.xml$ /rss/islandgift [L]
+RewriteRule ^sitemap.xml$ /sitemap [L]

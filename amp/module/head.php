@@ -1,0 +1,27 @@
+<?php
+$param = include '../kernel/param/PageParam.php';
+?><!doctype html>
+<html ⚡ lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title><?=$title?></title>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script src="https://cdn.ampproject.org/v0/amp-accordion-0.1.js" async="async" custom-element="amp-accordion"></script>
+    <script src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js" async="async" custom-element="amp-lightbox"></script>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400" rel="stylesheet">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+    <script async custom-element="amp-install-serviceworker" src="https://cdn.ampproject.org/v0/amp-install-serviceworker-0.1.js"></script>
+    <script async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js"></script>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script><script async custom-element="amp-youtube" src="https://cdn.ampproject.org/v0/amp-youtube-0.1.js"></script>
+    <link rel="canonical" href="https://www.islandgift.ru<?php echo str_replace('/amp','',$_SERVER['REQUEST_URI']); ?>">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+    <meta name="description" content="<?=$meta_d?>"><meta name="keywords" content="<?=$param['global_keywords']?> <?=$meta_k?>">
+    <meta property="og:type" content="website"><meta property="og:site_name" content="MaxImko"><meta property="og:title" content="<?=$title?>"><meta property="og:description" content="<?=$meta_d?>">
+    <meta name="robots" content="all"><meta property="og:image" content="https://www.islandgift.ru/ms-icon-310x310.png"><meta property="og:image:width" content="310"><meta property="og:image:height" content="310">
+    <meta property="og:url" content="https://www.islandgift.ru<?= $_SERVER['REQUEST_URI'] ?>">
+    <meta name="msapplication-TileColor" content="#ff8502"><link rel="shortcut icon" href="https://www.islandgift.ru/favicon.ico" type="image/x-icon"><link rel="apple-touch-icon" sizes="57x57" href="https://www.islandgift.ru/apple-icon-57x57.png"><link rel="apple-touch-icon" sizes="60x60" href="https://www.islandgift.ru/apple-icon-60x60.png"><link rel="apple-touch-icon" sizes="72x72" href="https://www.islandgift.ru/apple-icon-72x72.png"><link rel="apple-touch-icon" sizes="76x76" href="https://www.islandgift.ru/apple-icon-76x76.png"><link rel="apple-touch-icon" sizes="114x114" href="https://www.islandgift.ru/apple-icon-114x114.png"><link rel="apple-touch-icon" sizes="120x120" href="https://www.islandgift.ru/apple-icon-120x120.png"><link rel="apple-touch-icon" sizes="144x144" href="https://www.islandgift.ru/apple-icon-144x144.png"><link rel="apple-touch-icon" sizes="152x152" href="https://www.islandgift.ru/apple-icon-152x152.png"><link rel="apple-touch-icon" sizes="180x180" href="https://www.islandgift.ru/apple-icon-180x180.png"><link rel="icon" type="image/png" sizes="192x192" href="https://www.islandgift.ru/android-icon-192x192.png"><link rel="icon" type="image/png" sizes="32x32" href="https://www.islandgift.ru/favicon-32x32.png"><link rel="icon" type="image/png" sizes="96x96" href="https://www.islandgift.ru/favicon-96x96.png"><link rel="icon" type="image/png" sizes="16x16" href="https://www.islandgift.ru/favicon-16x16.png"><meta name="msapplication-TileImage" content="https://www.islandgift.ru/ms-icon-144x144.png"><meta name="theme-color" content="#ff8502"><meta name="msapplication-navbutton-color" content="#ff8502"><meta name="apple-mobile-web-app-status-bar-style" content="#ff8502">
+    <style amp-boilerplate="">body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style>    <noscript data-amp-spec=""><style amp-boilerplate="">body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom=""><?php include 'style.css'?></style>
+    <script type="application/ld+json"><?php $date = date('Y-m-d'); ?>{"@context": "http://schema.org","@type": "Webpage","url": "https://www.islandgift.ru/amp/","name": "Maximko","headline":"<?=$title?>","mainEntityOfPage": {"@type": "WebPage","@id": "https://www.islandgift.ru/amp/"},"publisher": {"@type": "Organization","name": "Maximko","logo": {"url": "https://www.islandgift.ru/logo.png","width": 175,"height": 60,"@type": "ImageObject"}},"image": {"@type": "ImageObject","url": "https://www.islandgift.ru/logo.png","width": 1200,"height": 630}}</script></head><body class="home">

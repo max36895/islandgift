@@ -1,0 +1,944 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+		<yml_catalog date="2018-04-05 12:31">
+		<shop>
+			<name>www.islandgift.ru</name>
+			<company>www.islandgift.ru</company>
+			<url>https://www.islandgift.ru/</url>
+		<currencies>
+			<currency id="RUR" rate="1" />
+		</currencies>
+		<categories>
+			<category id="1">Товары в наличии</category>
+			<category id="2">Подарки для женщин</category>
+			<category id="3">Подарки для мужчин</category>
+			<category id="4">Подарок для тебя </category>
+			<category id="5">Сладости</category>
+			<category id="6">Подарки для детей</category>
+			<category id="7">Цветы</category>
+			<category id="8">Подарки для бабушек и дедушек</category>
+			<category id="9">Подарки для родителей</category>
+			<category id="10">Наборы и упаковка</category>
+		</categories>
+		<offers>
+			<offer id="1597083389" available="true">
+			       <url>https://www.islandgift.ru/product/90</url>
+			       <price>810</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Набор для маникюра и педикюра</name>
+<description>Функциональный набор для маникюра и педикюра оснащен комплектом сменных насадок, благодаря чему позволяет с легкостью выполнять различные процедуры по уходу за ногтями в домашних условиях на профессиональном уровне. Комплект насадок: шлифовальный круг для мозолей, большой шлифовальный камень, остроконечный шлифовальный камень, тупой шлифовальный камень, полировочный диск, насадка для поднятия кутикулы. </description>
+			</offer>
+			<offer id="1297759037" available="true">
+			       <url>https://www.islandgift.ru/product/82</url>
+			       <price>2390</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Запонки с перламутром</name>
+<description>Модель: S00048-Z0W-01 Вставка: Эмаль; Другое Запонки, вставка: Сталь; эмаль; Минимальный вес изделия: 13,2 г</description>
+			</offer>
+			<offer id="849387194" available="true">
+			       <url>https://www.islandgift.ru/product/86</url>
+			       <price>300</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Маленький плюшевый медведь</name>
+<description>Очень хорошенький маленький мишка, который сможет стать украшением любой девичьей комнаты. Он очень пушистый и совсем небольшой, всего лишь 30 см. Таким образом, он не займет много места и сможет жить у вашей девушке на кровати, чтобы в любой момент быть рядом. Такого мишку можно подарить девушке, с которой ты только начал встречаться, чтобы сделать ей приятно и показать свою симпатию. </description>
+			</offer>
+			<offer id="1419244606" available="true">
+			       <url>https://www.islandgift.ru/children</url>
+			       <price>1000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Полицейский вертолет Tomica </name>
+<description>Игрушечный полицейский вертолёт Tomica в комплекте с фигуркой полицейского. </description>
+			</offer>
+			<offer id="663806841" available="true">
+			       <url>https://www.islandgift.ru/flowers</url>
+			       <price>2000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет радостный день </name>
+<description>Сочная зелень, расположенная по кругу, объединяет в единое целое герберы, альстромерии и хризантемы. </description>
+			</offer>
+			<offer id="537504266" available="true">
+			       <url>https://www.islandgift.ru/grandma</url>
+			       <price>450</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Косметичка для бабули </name>
+<description>Удобные и стильные косметички для хранения важных мелочей</description>
+			</offer>
+			<offer id="1632791349" available="true">
+			       <url>https://www.islandgift.ru/parent</url>
+			       <price>500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Набор для мамы  </name>
+<description>Набор для мамы  Лавандовое настроение </description>
+			</offer>
+			<offer id="1396301224" available="true">
+			       <url>https://www.islandgift.ru/allgift</url>
+			       <price>11000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Сумка для ноутбука Matt &amp; Nat David </name>
+<description>Коричневый matt &amp; nat</description>
+			</offer>
+			<offer id="4253399128" available="true">
+			       <url>https://www.islandgift.ru/about</url>
+			       <price>100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>1</categoryId>
+				<delivery>true</delivery>
+			       <name>Помощь и консультация</name>
+<description>К нам вы можете обратиться по любому вопросу. Мы сделаем все возможное чтобы подарок, который вы преподнесете, оценили вдвойне. А так же мы поможем с выбором подарка! </description>
+			</offer>
+			<offer id="2314842840" available="true">
+			       <url>https://www.islandgift.ru/sweet</url>
+			       <price>1100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор сладостей </name>
+<description>Подарочный набор сладостей Люблю, когда мы вместе</description>
+			</offer>
+			<offer id="1138958484" available="true">
+			       <url>https://www.islandgift.ru/woman</url>
+			       <price>2000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор цветы и баунти </name>
+<description>Отличный подарок, который не оставит равнодушным вашу вторую половинку!</description>
+			</offer>
+			<offer id="2375650964" available="true">
+			       <url>https://www.islandgift.ru/gift</url>
+			       <price>100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>1</categoryId>
+				<delivery>true</delivery>
+			       <name> Подарки дляженщин</name>
+<description>Достойные подарки для любимой женщины</description>
+			</offer>
+			<offer id="2722778617" available="true">
+			       <url>https://www.islandgift.ru/man</url>
+			       <price>450</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Кошелек Bailini </name>
+<description>Мужской кошелек Bailini из кожи</description>
+			</offer>
+			<offer id="4233196699" available="true">
+			       <url>https://www.islandgift.ru/box</url>
+			       <price>100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>4</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 1 </name>
+<description>Самый быстрый способ красиво упаковать подарок. </description>
+			</offer>
+			<offer id="3583290887" available="true">
+			       <url>https://www.islandgift.ru/product/100</url>
+			       <price>5500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет из конфет ко дню рождения</name>
+<description>Обычные банальные подарки уже порядком поднадоели. В каждой квартире пылятся бесчисленное количество одеколонов и косметических наборов. Шкафы и серванты ломятся от посуды. Но, тем не менее, мы все также на каждый праздник продолжаем дарить друг другу не интересные вещи. А ведь на самом деле, намного дороже подарочных сертификатов и избитых духов, как бы банально это не звучало, оказывается эксклюзивный красивый подарок, сделанный собственными руками. Уникальность композиций из конфет заключается в возможности удивлять, в эксклюзивности, в практичности, и уж поверьте, такой подарок ни кто и ни когда не забудет. В состав букета входят: 19 роз; 27 конфет(на ваш выбор)</description>
+			</offer>
+			<offer id="936496793" available="true">
+			       <url>https://www.islandgift.ru/product/64</url>
+			       <price>1800</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор сладостей </name>
+<description>Желаете купить оригинальный подарок любимому на юбилей? Вкусный шоколад вызывает выброс эндорфинов (гормона счастья) в кровь, а шоколадные подарки окажутся кстати на любое торжество, в том числе на 8 марта, юбилей или День Рождения. В нашем магазине Вы найдёте то, что давно искали! Дизайнерский шоколад завораживает креативным оформлением и способен успешно заменить привычную открытку или обычную плитку шоколада, а подарочный набор сладостей в коробке-чемодане MISS YOU - это полноценный самостоятельный презент. Подарочный набор сладостей в коробке-чемодане MISS YOU - что внутри? Привлекательно оформленная коробочка содержит в себе набор таких вкусняшек: Raffaello — 6 шт. Toblerone — 1 шт. Bean Boozled — 1 шт. Шоколадный наборчик — 2 шт. Nutella Mini — 2 шт. Деревянные таблички — 1 шт. Жвачки «Love is » — 12 шт. Ferrero Rocher — 4 шт. Баночка с желешками (на выбор) — 1 шт. Печеньки с предсказаниями — 2 шт. Kinder Joy — 1 шт. </description>
+			</offer>
+			<offer id="4106721492" available="true">
+			       <url>https://www.islandgift.ru/product/99</url>
+			       <price>400</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет из конфет </name>
+<description>Основной материал: Шоколадные конфеты, атлас, шелковые ленты и бантики, бижутерия, цветок-брошь из фомерана (ручной работы)., Размеры: Диаметр букета около 30 см., Детали: Конфеты Ферреро Роше - 29 шт.. </description>
+			</offer>
+			<offer id="3362795779" available="true">
+			       <url>https://www.islandgift.ru/product/65</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор </name>
+<description>Чем слаще чувства, тем счастливее жизнь! Дарите вкусные эмоции пупсикам, рыбкам, зайкам, маськам и просто дорогим и любимым людям. Сочные мармеладные конфеты в симпатичной именной баночке станут отличный подарком-сюрпризом для вашей второй половинки. Признавайтесь в любви больше, целуйте и обнимайте чаще! Параметры вкусной помощи 250 МЛ: Вес нетто: 0,20 кг; Вес брутто: 0,30 кг; Размер банки: 60х60х95 мм. Параметры большой вкусной помощи 500 МЛ: Вес нетто: 0,65 кг; Вес брутто: 0,75 кг; Размер банки: 75х75х120 мм. </description>
+			</offer>
+			<offer id="3581206698" available="true">
+			       <url>https://www.islandgift.ru/product/61</url>
+			       <price>380</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Конфеты duplo</name>
+<description>Ferrero Duplo — большой набор удивительно нежных батончиков из молочного шоколада, с тонкой хрустящей вафлей внутри, пропитанной ароматным ореховым кремом. Одиннадцать шоколадных батончиков, изготовленных в виде обрезанных ореховых веточек, долго будут радовать ребенка своим незабываемым вкусом. Тонкое послевкусие нежного пралине из молотого лесного ореха, превосходно гармонирует чуть соленым вафельным печеньем и удивительно пикантным, почти темным, молочным шоколадом Ferrero, с ярко выраженным сливочным привкусом. Светлая, полукруглая упаковка Ferrero Duplo, плотно набита шоколадными веточками и весит 182 грамма. Подобный набор настоящих шоколадных изделий, станет незабываемым сладким подарком как для совсем маленького ребенка, так и созревшего подростка. Ferrero Duplo будет отличным дополнением к основному подарку на: День рождения; Выпускной; 8 марта; День святого Валентина. </description>
+			</offer>
+			<offer id="3817746988" available="true">
+			       <url>https://www.islandgift.ru/product/67</url>
+			       <price>1800</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Корзина сладостей «Шоколадный подарок»</name>
+<description>Сладкая корзина с набором шоколадок. Отличный подарок как для любимой девушки, так и для ребенка! В составе: корзина 1 батончик KitKat стандарт 1 батончик Bounty 1 батончик Sneakers 1 батончик Milkyway 1 батончик Twix 1 батончик Nesquik 1 шоколадное яйцо Kinder Joy 1 чупа-чупс XL 1 шоколадная плитка Alpen Gold Max Fun 1 пачка фруктового жевательного драже Skittles 3 батончика Nuts атласная лента бумага-наполнитель. Подарит улыбку и оставит неизгладимое впечатление!</description>
+			</offer>
+			<offer id="2409019208" available="true">
+			       <url>https://www.islandgift.ru/product/87</url>
+			       <price>2500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Набор для макияжа </name>
+<description>Если и существует что-то, чего хотят большинство женщин, так это захватывающий, как ящик Пандоры, полный волнующих цветов и красивых упаковок косметический сундучок визажиста. Идеальное расположение содержимого этого сундучка вообще ни с чем невозможно сравнить. Первое, на что сразу обращаешь внимание — это не просто сумка, а компактный чемоданчик. </description>
+			</offer>
+			<offer id="3645593877" available="true">
+			       <url>https://www.islandgift.ru/product/91</url>
+			       <price>900</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Принадлежности маникюрные</name>
+<description>Внешне очень напоминает кошелёк или портмоне. Стильно и компактно. состав входит: - кусачки для обрезания кожи (кутикулы) - кусачки для обстригания ногтя (книпсер или клипер) - ножницы для обрезания кожи (кутикулы) - пинцет скошенный (лезвия под углом в 45 гр. ) - пилка металлическая; - триммер, V-образная палочка для обрезания кутикулы; - 2 шабера, металлические палочки для отодвигания кутикулы и чистки ногтя</description>
+			</offer>
+			<offer id="1955955817" available="true">
+			       <url>https://www.islandgift.ru/product/33</url>
+			       <price>650</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Набор для творчества «Кошечка»</name>
+<description>Мягкая подушечка для украшения тканевыми элементами - необычная разновидность набора для творчества. С этой задачей ребенок справится без клея и без иголок, абсолютно легко и безопасно. Очаровательная мягкая игрушка в виде Кошечки авторского дизайна понравится любой девочке и станет ей верным плюшевым другом!</description>
+			</offer>
+			<offer id="3273184526" available="true">
+			       <url>https://www.islandgift.ru/product/32</url>
+			       <price>1800</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Moose Интерактивная игрушка Мышка с домиком</name>
+<description>Возраст: от 5 лет Для мальчиков и девочек Комплект: 1 набор. Наличие батареек: входят в комплект. Тип батареек: 3 х AG13 / LR44 (миниатюрные). Из чего сделана игрушка (состав): пластик, металл. Размер упаковки: 23.5 х 17 х 19 см. Упаковка: картонная коробка блистерного типа. Страна обладатель бренда: Австралия. Игровой набор Little Live Pets "Мышка в домике" от австралийского производителя Moose - это уникальный и необычный подарок для ребенка. Такая игрушка наверняка заменит для детей настоящего домашнего питомца. Ребятам предстоит наблюдать за мышкой, которая живет в домике. Дом выглядит реалистично, ведь в нем есть даже отверстия для воздуха. Однако вместо ног у мыши имеются специальные колеса, на которых она передвигается. Она может крутиться в своем колесе и передвигаться по дому вдоль трека. Игрушка сделана из качественного пластика, который не крошится и безопасен для ребенка. В комплект входят мышка и дом с маленьким треком</description>
+			</offer>
+			<offer id="3750431452" available="true">
+			       <url>https://www.islandgift.ru/product/31</url>
+			       <price>3000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Игровой набор KidKraft</name>
+<description>Здание спасательной службы KidKraft - игровой набор для увлекательной сюжетной игры. Объем набора позволяет играть одновременно нескольким ребятам. Большое здание в 3 этажа хорошо просматривается со всех сторон. Внутреннее пространство всех комнат доступно для игроков. Комнаты детально оборудованы и обставлены мебелью. Наличие спасательной техники и фигурок делают игру более реалистичной. Набор Здание спасательной службы для мальчика не только игрушка, но познавательное пособие, знакомящее его с различными профессиями. Особенности: основная конструкция изготовлена из дерева с деталями из текстиля и прочного нетоксичного пластика наличие инструкции для осуществления дополнительной сборки оформлено с высокой художественной детализацией игровая локация состоит из трехэтажного здания, имеющего 12 комнат с открытым доступом для игры крыша оборудована площадкой для вертолета происходящее внутри здания можно рассмотреть через широкие прозрачные окна интерьер комнат обставлен соответствующей их назначению мебелью: в наборе 28 предметов мебели имеется три вида техники для выполнения спасательных работ: мотоцикл полицейского, машина спасателей и вертолет для трудно доступной местности комплект дополнен мини-фигурками 2 спасателей и их помощников 2 собак возможность легко очистить при помощи влажной губки Характеристики: материалы: древесина, ткань, пластмасса размеры в собранном виде: 97 x 38 x 65 см вес: 12,9 кг упаковка: коробка для мальчика от 3-х лет производство: Китай</description>
+			</offer>
+			<offer id="1703525495" available="true">
+			       <url>https://www.islandgift.ru/product/34</url>
+			       <price>1200</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Швейная машинка детская </name>
+<description>Возраст: от 5 лет Для девочек Цвет: розовый. Комплект: швейная машинка, нитки, иголка, кусочек ткани. Тип батареек: на батарейках. Из чего сделана игрушка (состав): пластик, металл. Размер упаковки: 26 x 22 x 10 см. Упаковка: картонная коробка блистерного типа. Игрушечная швейная машинка поможет девочке научиться самостоятельно работать с тканью, нитками и иголками, делать простые однострочные швы. Машинка шьет настоящими нитками, которые вместе с иголкой входят в комплект. С помощью этого прибора можно легко и просто моделировать и создавать одежду для своих игрушек. Машинка выполнена в приятном стильном дизайне, обладает интересными декоративными элементами и красивой расцветкой. </description>
+			</offer>
+			<offer id="1870790713" available="true">
+			       <url>https://www.islandgift.ru/product/35</url>
+			       <price>1200</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Полезные подарки для новорожденных мальчиков</name>
+<description>Детские наборы одежды для новорожденных, подарочные комплекты для мальчиков и девочек от ведущих российских производителей. Подарочный набор одежды, состоящий из нескольких принадлежностей: спальник, шапочка, нагрудник, распашонка, штанишки выполнены из тонкого хлопка, а также красивая игрушка. Такой комплект будет замечательным подарком для малыша. </description>
+			</offer>
+			<offer id="388786076" available="true">
+			       <url>https://www.islandgift.ru/product/37</url>
+			       <price>1100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Полезные подарки для новорожденных</name>
+<description>Детские наборы одежды для новорожденных, подарочные комплекты для мальчиков и девочек от ведущих российских производителей. Подарочный набор одежды, состоящий из нескольких принадлежностей: спальник, шапочка, нагрудник, распашонка, штанишки выполнены из тонкого хлопка, а также красивая игрушка. Такой комплект будет замечательным подарком для малыша. </description>
+			</offer>
+			<offer id="438406822" available="true">
+			       <url>https://www.islandgift.ru/product/36</url>
+			       <price>1300</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Полезные подарки для новорожденных девочек</name>
+<description>Детские наборы одежды для новорожденных, подарочные комплекты для мальчиков и девочек от ведущих российских производителей. Подарочный набор одежды, состоящий из нескольких принадлежностей: спальник, шапочка, нагрудник, распашонка, штанишки выполнены из тонкого хлопка, а также красивая игрушка. Такой комплект будет замечательным подарком для малыша. </description>
+			</offer>
+			<offer id="2833860926" available="true">
+			       <url>https://www.islandgift.ru/product/30</url>
+			       <price>700</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Робот Lightbringer</name>
+<description>Для мальчиков. Комплект - 1 робот. Наличие батареек - не входят в комплект. Тип батареек - 2 х АА / LR6 1.5V (пальчиковые). Упаковка - картонная коробка блистерного типа. Высота робота - 21 см. Вес - 400 г. Робот Lightbringer не только может ходить, но и оснащен световыми эффектами. Удобный размер, около 20 см в высоту, позволит использовать его в большой игре вместе с другими фигурками и машинками. Он может стать космическим пришельцем, участником армии будущего или индивидуальным борцом на межгалактических рингах. Руки робота поднимаются вверх и вниз. На одной из них есть особое оружие, которое можно привести в действие, нажав на специальный рычаг. Шлем робота светится, что делает его еще более живым. Рекомендуемый возраст: от 3 лет. Материал: пластик, металл. </description>
+			</offer>
+			<offer id="215531977" available="true">
+			       <url>https://www.islandgift.ru/product/29</url>
+			       <price>1000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>6</categoryId>
+				<delivery>true</delivery>
+			       <name>Полицейский вертолет Tomica</name>
+<description>Игрушечный полицейский вертолёт Tomica в комплекте с фигуркой полицейского. У полицейского вертолёта крутятся оба винта, а от нижней части корпуса выдвигается щуп, при помощи которого можно перевозить мелкие грузы. Полицейский может поворачивать головой, поднимать руки, сгибать ноги. Вес набора 50 г. </description>
+			</offer>
+			<offer id="2836942250" available="true">
+			       <url>https://www.islandgift.ru/product/127</url>
+			       <price>799</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Тюльпаны</name>
+<description>Нежные, как капельки росы, розовые тюльпаны словно пришли в наш мир из самых спокойных и приятных сновидений. Их аккуратные бутоны, обрамленные широкими темными листьями, напоминают о прекрасных драгоценных жемчужинах. </description>
+			</offer>
+			<offer id="3021693080" available="true">
+			       <url>https://www.islandgift.ru/product/126</url>
+			       <price>4500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет Русалка </name>
+<description>Этот букет не требует в дополнение никаких слов - он сам расскажет о Вашей искренней любви, заботе и трепетной нежности. </description>
+			</offer>
+			<offer id="4089726080" available="true">
+			       <url>https://www.islandgift.ru/product/124</url>
+			       <price>2690</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Аромат прованса </name>
+<description>Воплощение французской нежности уместилось в букете из розовых роз и ромашковых белых хризантем. Ничего лишнего, только самое лучшее для самых дорогих. </description>
+			</offer>
+			<offer id="1422446882" available="true">
+			       <url>https://www.islandgift.ru/product/128</url>
+			       <price>1100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Фиолетовые тюльпаны </name>
+<description>Необычные тюльпаны фиолетового цвета - это лучший подарок для творческого человека. Эти цветы сочетают в себе необычный цвет лепестков и их невероятную нежность. </description>
+			</offer>
+			<offer id="1677090305" available="true">
+			       <url>https://www.islandgift.ru/product/125</url>
+			       <price>3690</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет  Романтика </name>
+<description>Букет Романтика— выполнен из прекрасных, нежных, свежих цветов. Великолепный подарок для любимой девушки как на праздник, так и для поднятия настроения!</description>
+			</offer>
+			<offer id="4213337472" available="true">
+			       <url>https://www.islandgift.ru/product/132</url>
+			       <price>3310</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Сердце</name>
+<description>Сердце из живых цветов - прекрасный способ признаться в любви. </description>
+			</offer>
+			<offer id="1582072205" available="true">
+			       <url>https://www.islandgift.ru/product/129</url>
+			       <price>1600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Жёлтые тюльпаны</name>
+<description>Тюльпан — это нежный и хрупкий цветок, который способен покорить своей красотой даже самое неприступное и ледяное сердце. А огромный букет желтых тюльпанов может стать для вас началом примирения с любимой девушкой или зажжет страсть в глазах сотрудницы, которая вам давно симпатична. </description>
+			</offer>
+			<offer id="2148120131" available="true">
+			       <url>https://www.islandgift.ru/product/131</url>
+			       <price>4300</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Удачный день</name>
+<description>Состав корзинки: Гербера — 3 шт; Роза одноголовая — 4 шт; Эустома — 5 шт; Статица — 5 шт; Орнитогалум — 5 шт; Маттиола — 3 шт; Зелень</description>
+			</offer>
+			<offer id="1823795977" available="true">
+			       <url>https://www.islandgift.ru/product/130</url>
+			       <price>2100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Вечерний джаз</name>
+<description>Состав букета: Роза одноголовая — 7 шт; Роза кустовая — 6 шт; Зелень, Упаковка Сказать: Выздоравливай, Люблю, Прости, Просто так, С Днём Рождения, Спасибо</description>
+			</offer>
+			<offer id="2225050267" available="true">
+			       <url>https://www.islandgift.ru/product/74</url>
+			       <price>3000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет «Для тебя»</name>
+<description>Любимая многими роза не зря зовется королевой — это один из самых популярных цветов во всем мире. Этот великолепный цветок запечатлен во многих творениях поэтов и художников, ему посвящены роскошные праздники. Какими только эпитетами не награждали эту красавицу — нежная, волшебная, притягательная, очаровательная, неповторимая Роза считается любимицей самой Афродиты — богини любви. </description>
+			</offer>
+			<offer id="4130823855" available="true">
+			       <url>https://www.islandgift.ru/product/72</url>
+			       <price>13000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>101 элитная роза</name>
+<description>Подобно художнику из песни, Вы можете бросить к ногам своей любимой миллион алых роз, и она будет без ума от восторга!</description>
+			</offer>
+			<offer id="3495117743" available="true">
+			       <url>https://www.islandgift.ru/product/76</url>
+			       <price>2060</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет «Небесная гавань»</name>
+<description>Невероятная цветочная композиция, которая унесет адресата в мир грез, воздушных мечт и позитивных мыслей. Этот чудесный подарок скрасит любой, даже самый хмурый день, зарядит оптимизмом и жизненной энергией. А стильная упаковка в виде круглой шляпной коробки позволит украсит любое помещение, делая его ярче и оригинальней. </description>
+			</offer>
+			<offer id="2478098645" available="true">
+			       <url>https://www.islandgift.ru/product/73</url>
+			       <price>1600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет «Легкий ветерок»</name>
+<description>Нежнейшие белоснежные хризантемы словно дуновение мимолетного ветерка на берегу лазурного моря. </description>
+			</offer>
+			<offer id="1048279075" available="true">
+			       <url>https://www.islandgift.ru/product/96</url>
+			       <price>4000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Роза в колбе</name>
+<description>Роза "Красавица и чудовище" в разных исполнениях и разных размеров, гипоаллергенная. Простоит от 3-5 лет. </description>
+			</offer>
+			<offer id="2828854839" available="true">
+			       <url>https://www.islandgift.ru/product/71</url>
+			       <price>2060</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет «Три грации»</name>
+<description>Преподнесите этот букет своей юной невесте, и он не только сделает ее обворожительней, но и раскроет перед ней милые, понятные влюбленным образы. Три крупные, как будто восковые лилии — ваша чистая любовь, крошечные розовые бутончики — ваше прекрасное будущее, и конечно же два любящих сердца, которые всегда будут биться в унисон. </description>
+			</offer>
+			<offer id="2451847010" available="true">
+			       <url>https://www.islandgift.ru/product/97</url>
+			       <price>4000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Роза в колбе</name>
+<description>Роза в колбе это отличный презент, который на долгие годы обеспечите положительные эмоции и воспоминания его получателю, а также порадует своей относительно недорогой ценой. В течении 3-5 лет, растение сохраняет вид и аромат живого цветка. Достигается это, путем замещения всех жидкостей в цветке специальным раствором на основе глицерина</description>
+			</offer>
+			<offer id="3375862880" available="true">
+			       <url>https://www.islandgift.ru/product/95</url>
+			       <price>4000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Розовая Живая Роза в колбе</name>
+<description>Роза "Красавица и чудовище" в разных исполнениях и разных размеров, гипоаллергенная. Простоит от 3-5 лет. </description>
+			</offer>
+			<offer id="1125457031" available="true">
+			       <url>https://www.islandgift.ru/product/77</url>
+			       <price>250</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Радужная роза</name>
+<description>Радужная роза — цветок для тех, кто хочет удивить чем-то необычным. Подарите живую розу лепестки которой разного цвета: красные, розовые, желтые, зеленые, синие, сиреневые. Вы скажете, что это не возможно. А вот и нет!</description>
+			</offer>
+			<offer id="3324083257" available="true">
+			       <url>https://www.islandgift.ru/product/75</url>
+			       <price>2500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет из хризантем</name>
+<description>Традиционная символика желтых сортов — пожелание долголетия, здоровья, богатства, власти, мудрости, величия. Современное толкование солнечного растения — признание в любви, заверение в дружбе, открытость и искренность. Дарящий сообщает о желании быть вместе с любимым, сохранить доверительные отношения с друзьями. Уместно преподносить желтые хризантемы и женщинам, и мужчинам в официальных церемониях. В этом случае выражают признательность, пожелания успеха в делах, благополучия. Когда-то желтые сорта могли позволить себе только члены императорской семьи. Позже их разрешили использовать в брачных церемониях. С той поры считается допустимым дарить желтые виды во время свадьбы. </description>
+			</offer>
+			<offer id="2181759338" available="true">
+			       <url>https://www.islandgift.ru/product/70</url>
+			       <price>2000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет «Небесные ирисы»</name>
+<description>Необычная красота ирисов издавна побуждала людей наделять эти цветы магическими свойствами. Считается, что ирисы ограждают от болезней и наделяют душу отвагой. Чудесный аромат дополняет внешние достоинства. </description>
+			</offer>
+			<offer id="922982486" available="true">
+			       <url>https://www.islandgift.ru/product/69</url>
+			       <price>2000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>7</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет радостный день</name>
+<description>Здесь сошлись такие теплые, такие жизнелюбивые краски! Сочная зелень, расположенная по кругу, объединяет в единое целое герберы, альстромерии и хризантемы. Красиво расположенные цветы придают букету выразительность и экспрессию. В тон основным цветам, герберам, подобрана декоративная сетка. Вместе с букетом вы подарите всплеск чувств, ощущение того, что жизнь прекрасна!</description>
+			</offer>
+			<offer id="3414125869" available="true">
+			       <url>https://www.islandgift.ru/product/136</url>
+			       <price>450</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Кружка подарочная Золотая бабушка</name>
+<description>Без всякого сомнения, керамическая кружка является одним из самых популярных, универсальных и практичных подарков, а вместе с тем и самым недорогим, но запоминающимся на долгие годы. Ведь качественная кружка никогда не будет лишней- хоть дома, хоть на работе! А если кружка будет украшена еще и оригинальным прикольным рисунком, позитивной надписью или приятным пожеланием, то такой подарок станет просто бесценным!</description>
+			</offer>
+			<offer id="2053812706" available="true">
+			       <url>https://www.islandgift.ru/product/55</url>
+			       <price>350</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Печеньки с пожеланиями</name>
+<description>Печенье с предсказанием доставит Вам эстетическое удовольствие и массу положительных эмоций. Вся продукция имеет Сертификаты ГОСТ Р, Декларацию соответствия, штрих-код, Сертификаты на специальную бумагу и пищевую безопасную краску, которые используются при печати предсказаний. Герметичная и экологичная упаковка позволяет сохранять печенье до 6 месяцев</description>
+			</offer>
+			<offer id="2382822821" available="true">
+			       <url>https://www.islandgift.ru/product/54</url>
+			       <price>1500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Деревянный ночник</name>
+<description>Ночник — небольшой декоративный светильник, используемый для подсветки тёмных помещений или помещений, которые становятся тёмными время от времени (например, ночью). Ночник облегчает ориентирование в помещении, предохраняя от травм; при этом он недостаточно ярок, чтобы беспокоить спящих в помещении людей. Необычная формфактор данного ночника приведет в восторг не только того, кому вы соберетесь преподнести данный подарок, а также тех кто увидит данный продукт. Данный ночник изготовлен из дерева, и имеет приятную подсветку. Существует возможность заменить надпись на вашу. </description>
+			</offer>
+			<offer id="4009761824" available="true">
+			       <url>https://www.islandgift.ru/product/56</url>
+			       <price>2500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Чашка с ложкой</name>
+<description>Аккуратная ложечка, которая входит в комплект, позволит совмещать чаепитие с наслаждением от вкусного десерта, в любое время и в любом месте. Набор дополнен яркой подарочной упаковкой. </description>
+			</offer>
+			<offer id="3663385188" available="true">
+			       <url>https://www.islandgift.ru/product/58</url>
+			       <price>400</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Фоторамка для бабули и дедули</name>
+<description>Не знаете чем бы оригинальным и не обычным порадовать? Обратитесь к нам! Мы знаем! Дарить такой подарок приятно в двойне, самые теплые слова всегда на виду, а значит и в душе на долгие годы! количество фото 3шт Покраска в любой цвет Доставка в любой город! Изделия отправляем в качественной упаковке собственного производства. Деревянный короб, внутри поролон и защитная мягкая пленка. Короб заколочен саморезами, запломбирован надпилами. Изделие внутри фиксируется за задники на гвозди. </description>
+			</offer>
+			<offer id="206437867" available="true">
+			       <url>https://www.islandgift.ru/product/59</url>
+			       <price>1000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Полка для фотографий</name>
+<description>Родословное или генеалогическое дерево — это схематичное представление родственных связей. Выполняется такая схема в виде дерева, где у самых корней расположены родоначальники, на стволе расписаны представители основного рода, а на ветвях — потомки. Однако нередко бывает и наоборот — наверху родоначальники — внизу — последние представители рода. </description>
+			</offer>
+			<offer id="444617699" available="true">
+			       <url>https://www.islandgift.ru/product/53</url>
+			       <price>600</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Именная подушка</name>
+<description>Размер 44x44 см; Наполнитель: гипоаллергенный холлофайбер; Можно стирать; Ткань мягкая и приятная на ощупь; Ручная работа; Доставка по всей России (пункты выдачи, курьерская доставка, почта РФ) Именная подушка будет запоминающимся, оригинальным подарком! Подарите любимым настоящий праздник! Посмотрите полный ассортимент. Изделие выполнено с вниманием к деталям. Печать с двух сторон. Ткань мягкая и приятная на ощупь. Подушку можно стирать в стиральной машине. </description>
+			</offer>
+			<offer id="892741779" available="true">
+			       <url>https://www.islandgift.ru/product/57</url>
+			       <price>1000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Скрапбукинг альбом</name>
+<description>Скрапбукинг — это искусство создавать и оформлять оригинальные фотоальбомы. Основная цель этого направления рукоделия — превратить скучный фотоальбом в уникальную историю из нашей жизни. В этой статье вы узнаете историю развития скрапбукинга, а также как сделать обложку альбома, переплёт и секретики. </description>
+			</offer>
+			<offer id="2773448184" available="true">
+			       <url>https://www.islandgift.ru/product/52</url>
+			       <price>450</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>8</categoryId>
+				<delivery>true</delivery>
+			       <name>Косметичка для бабули</name>
+<description>Удобные и стильные косметички для хранения важных мелочей: можно использовать для косметики, а можно — для средств по уходу за малышом. Внутри - непромокаемая ткань и кармашек. В косметичку помещаются подгузники, влажные и сухие салфетки, небольшая игрушка. Характеристики: Внутри кармашек для мелочей Принт с обеих сторон Изделие украшено кожаной подвеской на молнии — чтобы косметичку было удобно открывать Внутри - цветная подкладка в тон лицевой стороны - красота в деталях! Состав: Материал — 100% лен, подвеска - 100% кожа Уплотнитель (между двумя слоями материала) — полиэфирное волокно Размер (ДхВхШ): 30х18х7 Застежка: молния Уход: машинная стирка при 30 градусах, щадящий режим</description>
+			</offer>
+			<offer id="226060062" available="true">
+			       <url>https://www.islandgift.ru/product/106</url>
+			       <price>1040</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+				<delivery>true</delivery>
+			       <name>Холст с памятными датами </name>
+<description>Размер 25х25 см; Толщина 1,8 см; Плотность холста 360 гр/м2 Печать высокого качества; Подрамник: сибирская сосна; Ручная работа; Доставка по всей России (пункты выдачи, курьерская доставка, почта РФ); </description>
+			</offer>
+			<offer id="3200376985" available="true">
+			       <url>https://www.islandgift.ru/product/41</url>
+			       <price>450</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+				<delivery>true</delivery>
+			       <name>Папина тарелка</name>
+<description>Именная тарелка «Усы» Вес: 0,30 Вес в упаковке: 0,40 Размер в упаковке (длинаширинавысота): 210 мм210 мм25 мм, 210 мм210 мм65 мм Дополнительные характеристики: Материал: тарелка — керамика, Подставка — пластик, Упаковка: картонная коробка, Подходит для использования в микроволновой печи, Цвет подставки: чёрный, ВАЖНО: не рекомендуется мыть в посудомоечной машине «Усатая» тарелка будет прекрасным подарком дорогому человеку: папе, мужу, брату или другу. Создайте уникальный подарок прямо сейчас, вписав нужное имя!</description>
+			</offer>
+			<offer id="3779369952" available="true">
+			       <url>https://www.islandgift.ru/product/40</url>
+			       <price>500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарок на 8 марта</name>
+<description>Международный женский день отмечается ежегодно 8 марта, когда весенние лучи уже греют лёгким теплом, и все вокруг начинает просыпаться и расцветать после долгой зимы. Этот праздничный женский день наполнен вниманием, комплиментами и приятными сюрпризами! И поэтому мы с большим нетерпением хотим показать Вам вкусности, которые подготовили к этому Дню! Состав: маршмеллоу, пряник восьмёрка</description>
+			</offer>
+			<offer id="3739200465" available="true">
+			       <url>https://www.islandgift.ru/product/39</url>
+			       <price>270</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+				<delivery>true</delivery>
+			       <name>Набор «Любимой мамочке» в шкатулке</name>
+<description>Мыльный набор — это оригинальный и очень приятный подарок для любителей водных процедур. В дальнейшем коробочку можно использовать для хранения важных мелочей. Состав набора: полотенце (20 20 см) — 1 шт.; мыльные бутоны — 9 шт.; металлическая шкатулка. </description>
+			</offer>
+			<offer id="59032610" available="true">
+			       <url>https://www.islandgift.ru/product/38</url>
+			       <price>500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+				<delivery>true</delivery>
+			       <name>Набор для мамы </name>
+<description>Ещё один вариант как порадовать маму</description>
+			</offer>
+			<offer id="188866965" available="true">
+			       <url>https://www.islandgift.ru/product/42</url>
+			       <price>450</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+				<delivery>true</delivery>
+			       <name>Кружка для папы</name>
+<description>Кружка керамическая с очень красивым рисунком! Они изготовлены из высококачественной керамики, благодаря которой кружки долго сохраняют привлекательный внешний вид. Рисунки яркие! Такая кружка идеально подойдёт для подарка. </description>
+			</offer>
+			<offer id="3073476320" available="true">
+			       <url>https://www.islandgift.ru/product/78</url>
+			       <price>350</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>9</categoryId>
+				<delivery>true</delivery>
+			       <name>Елочные шары с фотографиями внутри</name>
+<description>Ёлочные украшения — универсальный подарок в период зимних праздников. Блестящим новогодним шарам всегда найдется применение в украшении дома. А чтобы ваш подарок не затерялся среди прочих красот на елке, персонализируйте его с помощью магазина «MAXIMKO». У нас вы можете не только купить готовые елочные шары, но и самостоятельно изготовить новогодний шар с фотографией внутри. </description>
+			</offer>
+			<offer id="1380446313" available="true">
+			       <url>https://www.islandgift.ru/product/102</url>
+			       <price>1350</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Чековая книга желаний</name>
+<description>Чековая Книга Желаний — уникальный и модный сюрприз, который не оставит равнодушным ни одного мужчину! Вся суть такого подарка заключается в таком необычном преподношении простых, казалось бы вещей. Инструкция к Чековой Книге Желаний: Желания являются обязательными к получению от любящей жены. Чеки можно использовать круглосуточно, но не более 1 раза в сутки; Сроки исполнения желания устанавливает владелец книги; Отказ исполнителя не возможен, в случае особых причин владелец Чековой Книжки Желаний имеет право на два дополнительных желания; Использовать бланки желаний можно в любой последовательности. Срок действия Чековой Книжки один год По истечении указанного срока все чеки аннулируются Потеря или порча Чековой Книжки желаний приравнивается к её аннулированию. </description>
+			</offer>
+			<offer id="4184951947" available="true">
+			       <url>https://www.islandgift.ru/product/101</url>
+			       <price>3000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Букет из конфет к пасхе</name>
+<description>Праздник светлой Пасхи отмечается не в какой-то определенный день, а по лунному календарю. Этот праздник — символ победы добра. Он хранит память об исторической жертве Иисуса Христа во имя всего человечества и его священном воскрешении. Отмечают праздник, как правило, презентуя друг другу куличи и крашеные яйца, а также подарки, сделанные своими руками. Букеты из конфет на Пасху — приятный подарок, который удивит и порадует вашу семью. К тому же конфеты очень вкусные, а внешний вид букета приятный и необычный</description>
+			</offer>
+			<offer id="666953901" available="true">
+			       <url>https://www.islandgift.ru/product/103</url>
+			       <price>5400</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Шкатулка под украшения</name>
+<description>Шкатулка для украшений — это самый удобный атрибут туалетного столика, позволяющий хранить всевозможные мелкие предметы, косметику, часы, и пр. Эти маленькие сундучки могут быть различной конструкции и изготавливаться из совершенно разных материалов: обычного картона, дерева, металла, кожи. Их можно купить в магазине или смастерить собственноручно. Немного истории Шкатулка для украшений представляет собой маленькую коробочку или ящичек с крышкой, предназначенный для хранения ювелирных изделий, ценных бумаг и прочих мелких предметов. В древности шкатулку называли ларчиком, ларцом или баульчиком. Как правило, все сундучки раньше имели крышку с замком. Очень часто эти предметы оборудовались тайниками, например, двойным дном или особым скрытым пространством в толще крышки. Иногда шкатулка для ювелирных украшений, сделанная умелым мастером, имела особый секрет. Открыть такое изделие можно было, лишь проделав серию определенных манипуляций. Шкатулка для хранения украшений могла иметь очень высокую стоимость. Ведь для их изготовления и отделки использовались самые разнообразные ценные материалы: слоновая кость, золото, серебро, драгоценные и полудрагоценные камни. Помимо этого мастера задействовали для создания изделий достаточно сложные для того времени технологии: гравировка, перегородчатая эмаль, скань, зернь, инкрустация. Лучшие образцы таких изделий, принадлежащие ранее богатым знатным особам, хранятся ныне в музеях. </description>
+			</offer>
+			<offer id="3065767248" available="true">
+			       <url>https://www.islandgift.ru/product/105</url>
+			       <price>3000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Шкатулка под украшения</name>
+<description>Шкатулка для украшений — это самый удобный атрибут туалетного столика, позволяющий хранить всевозможные мелкие предметы, косметику, часы, и пр. Эти маленькие сундучки могут быть различной конструкции и изготавливаться из совершенно разных материалов: обычного картона, дерева, металла, кожи. Их можно купить в магазине или смастерить собственноручно. Немного истории Шкатулка для украшений представляет собой маленькую коробочку или ящичек с крышкой, предназначенный для хранения ювелирных изделий, ценных бумаг и прочих мелких предметов. В древности шкатулку называли ларчиком, ларцом или баульчиком. Как правило, все сундучки раньше имели крышку с замком. Очень часто эти предметы оборудовались тайниками, например, двойным дном или особым скрытым пространством в толще крышки. Иногда шкатулка для ювелирных украшений, сделанная умелым мастером, имела особый секрет. Открыть такое изделие можно было, лишь проделав серию определенных манипуляций. Шкатулка для хранения украшений могла иметь очень высокую стоимость. Ведь для их изготовления и отделки использовались самые разнообразные ценные материалы: слоновая кость, золото, серебро, драгоценные и полудрагоценные камни. Помимо этого мастера задействовали для создания изделий достаточно сложные для того времени технологии: гравировка, перегородчатая эмаль, скань, зернь, инкрустация. Лучшие образцы таких изделий, принадлежащие ранее богатым знатным особам, хранятся ныне в музеях. </description>
+			</offer>
+			<offer id="829718518" available="true">
+			       <url>https://www.islandgift.ru/product/137</url>
+			       <price>590</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Оскар </name>
+<description>Не знаете как выразить свои чувства или, возможно, человек, которого вы хотите поздравить самый лучший? Самый талантливый и одаренный? Награда "Ты лучший" - будет самым креативным и оригинальным подарком виновнику торжества. Скромное, но в тоже время точное и вдохновляющее поздравление поможет вам выразить свое уважение и восхищение человеку столь высоких нравственных и моральных качеств!</description>
+			</offer>
+			<offer id="2934213564" available="true">
+			       <url>https://www.islandgift.ru/product/104</url>
+			       <price>5000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Шкатулка под украшения</name>
+<description>Шкатулка для украшений — это самый удобный атрибут туалетного столика, позволяющий хранить всевозможные мелкие предметы, косметику, часы, и пр. Эти маленькие сундучки могут быть различной конструкции и изготавливаться из совершенно разных материалов: обычного картона, дерева, металла, кожи. Их можно купить в магазине или смастерить собственноручно. Немного истории Шкатулка для украшений представляет собой маленькую коробочку или ящичек с крышкой, предназначенный для хранения ювелирных изделий, ценных бумаг и прочих мелких предметов. В древности шкатулку называли ларчиком, ларцом или баульчиком. Как правило, все сундучки раньше имели крышку с замком. Очень часто эти предметы оборудовались тайниками, например, двойным дном или особым скрытым пространством в толще крышки. Иногда шкатулка для ювелирных украшений, сделанная умелым мастером, имела особый секрет. Открыть такое изделие можно было, лишь проделав серию определенных манипуляций. Шкатулка для хранения украшений могла иметь очень высокую стоимость. Ведь для их изготовления и отделки использовались самые разнообразные ценные материалы: слоновая кость, золото, серебро, драгоценные и полудрагоценные камни. Помимо этого мастера задействовали для создания изделий достаточно сложные для того времени технологии: гравировка, перегородчатая эмаль, скань, зернь, инкрустация. Лучшие образцы таких изделий, принадлежащие ранее богатым знатным особам, хранятся ныне в музеях. </description>
+			</offer>
+			<offer id="1102113424" available="true">
+			       <url>https://www.islandgift.ru/product/138</url>
+			       <price>500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор С любовью</name>
+<description>Подарочный набор "С любовью" - эффектный сувенир к праздничной годовщине. Комплект доставит приятные эмоции во время праздника и после него. С тёплыми чувствами Вы ещё долго будете пить чай и любоваться милым мягким сувениром. Радостный подарок для души и тела. Заряжает позитивом, гармонизирует атмосферу. </description>
+			</offer>
+			<offer id="1804320786" available="true">
+			       <url>https://www.islandgift.ru/product/139</url>
+			       <price>11000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Сумка для ноутбука Matt &amp; Nat David</name>
+<description>Сумка Matt &amp; Nat, Наружная часть из искусственной кожи, Подкладка из переработанного пластика, Двойные ручки, Регулируемый ремешок через плечо, Застежка-молния сверху, Наружные карманы, Внутренний карман на молнии, Протирать влажной тканевой салфеткой, 100% поливинилхлорид, Высота: 29 см, ширина: 40 см, толщина: 12 см. Начав свою деятельность в 1995 году, экологически чистый бренд Matt &amp; Nat стал признанным мастером по изготовлению сумок, соответствующих этическим стандартам. Производя рюкзаки, сумки и бумажники из переработанных материалов, лейбл Mat &amp; Nat (который можно расшифровать как "Материал и природа") заботится о здоровье планеты. "</description>
+			</offer>
+			<offer id="3112693518" available="true">
+			       <url>https://www.islandgift.ru/product/51</url>
+			       <price>250</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 9</name>
+<description>Это стильный и практичный вариант упаковки подарка к любимому всеми празднику. Красочное изображение, тематический рисунок - все слагаемые оригинального оформления подарка. Окружите близких людей вниманием и заботой, вручив презент в нарядном, праздничном оформлении. Подарочный пакет с 3-х цветным тиснением придаст дополнительный запоминающийся эффект от подарка или покупки. </description>
+			</offer>
+			<offer id="4034264614" available="true">
+			       <url>https://www.islandgift.ru/product/60</url>
+			       <price>1100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор сладостей</name>
+<description>Подарочный набор сладостей Люблю, когда мы вместе - оригинальный подарок любимому на Новый Год! Привлекательно оформленная коробочка содержит в себе набор таких вкусняшек: Raffaello — 2 шт. Harry Potter — 1 шт. Шоколадный наборчик — 1 шт. Nutella Mini — 1 шт. Nutella 180g. — 1 шт. Деревянные таблички — 1 шт. Жвачки «Love is » — 11 шт. Ferrero Rocher — 14 шт. Баночка с желешками (на выбор) — 2 шт. Печеньки с предсказаниями — 1 шт. Kinder Chocolate — 1 шт. </description>
+			</offer>
+			<offer id="3395709687" available="true">
+			       <url>https://www.islandgift.ru/product/66</url>
+			       <price>200</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Набор конфет </name>
+<description>Милый новогодний подарок Кому подарить: взрослым, кто хочет вызвать чувство приятной ностальгии по беззаботным временам своего детства, веселым новогодним праздниками. Детям, которые хотят попасть в новогоднюю сказку. Что внутри: тёплый и мягкий разноцветный мармелад «Кубики-смешинки» с проникающим сливочным вкусом. Упаковка: аккуратная банка из прозрачного пищевого пластика в яркой новогодней упаковке из плотного картона с атмосферной иллюстрацией и фентезийным шрифтом в стиле советского Рождества. Отличный способ почувствовать безмятежную новогоднюю эйфорию. </description>
+			</offer>
+			<offer id="1321233941" available="true">
+			       <url>https://www.islandgift.ru/product/62</url>
+			       <price>120</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Леденцы в игрушке </name>
+<description>Вам знакомо то чувство, когда невыносимо хочется чего-нибудь вкусного? В этом нет ничего страшного, баловать себя полезно, ведь сладкое повышает уровень эндорфинов — гормонов счастья. Леденцы в игрушке "Тому, кого люблю", 100 гр — лакомство, которое не только содержит натуральные и вкусные ингредиенты, но и несёт заряд хорошего настроения. Разделите удовольствие от него с близкими. </description>
+			</offer>
+			<offer id="3430099590" available="true">
+			       <url>https://www.islandgift.ru/product/63</url>
+			       <price>90</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>5</categoryId>
+				<delivery>true</delivery>
+			       <name>Жевательные конфеты </name>
+<description>Коробочки-комплименты. 125 г; ассорти из 2 вкусов: арбуз-тропик и дыня ананас; количество в коробе: 8 шт. возможность оригинальной выкладки. внутри каждой коробочки магнит с предсказанием. </description>
+			</offer>
+			<offer id="953201748" available="true">
+			       <url>https://www.islandgift.ru/product/50</url>
+			       <price>200</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 8</name>
+<description>Чтобы вещь приобрела красивый вид, достаточно приобрести такие красивые коробочки и тогда все встанет на свои места. Иногда так хочется, чтобы все старания, которые мы совершаем, были оценены по-достоинству. В этом случае вам просто необходимо иметь под рукой данный товар. Теперь вам не нужно будет беспокоиться о том, что ваш подарок останется без внимания. С этот продукт он будет привлекать к себе взор других людей. </description>
+			</offer>
+			<offer id="1738186762" available="true">
+			       <url>https://www.islandgift.ru/product/48</url>
+			       <price>300</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 6</name>
+<description>Именная коробочка или коробочка с логотипом станет прекрасным дополнением для упаковки Вашего изделия. Вместо имени или логотипа можно написать пожелание, поздравление</description>
+			</offer>
+			<offer id="3221509957" available="true">
+			       <url>https://www.islandgift.ru/product/43</url>
+			       <price>100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 1</name>
+<description>Самый быстрый способ красиво упаковать подарок. </description>
+			</offer>
+			<offer id="836318445" available="true">
+			       <url>https://www.islandgift.ru/product/44</url>
+			       <price>150</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 2</name>
+<description>Подарочная коробка для мелочей. Оригинальная упаковка подарка</description>
+			</offer>
+			<offer id="289494918" available="true">
+			       <url>https://www.islandgift.ru/product/45</url>
+			       <price>100</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 3</name>
+<description>Подарочная коробка в виде рубашки. Отлично подойдет что бы упаковать футболку или рубашку</description>
+			</offer>
+			<offer id="1355706731" available="true">
+			       <url>https://www.islandgift.ru/product/46</url>
+			       <price>250</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 4</name>
+<description>Подарочная упаковка лентами</description>
+			</offer>
+			<offer id="4283696983" available="true">
+			       <url>https://www.islandgift.ru/product/47</url>
+			       <price>200</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 5</name>
+<description>Новогодняя подарочная коробка. Отлично подойдет для упаковки новогоднего подарка. </description>
+			</offer>
+			<offer id="665946119" available="true">
+			       <url>https://www.islandgift.ru/product/49</url>
+			       <price>180</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>10</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная коробка 7</name>
+<description>Элегантная подарочная коробка oтлично подойдет для упаковки подарка для коллеги</description>
+			</offer>
+			<offer id="3702952331" available="true">
+			       <url>https://www.islandgift.ru/product/92</url>
+			       <price>4000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Парфюмированная вода Escada Joyful</name>
+<description>Коротко о товаре парфюмерная вода семейство: цветочные год выпуска: 2014 Объем: 5 мл, 18 мл, 30 мл, 50 мл, 75 мл</description>
+			</offer>
+			<offer id="1913087108" available="true">
+			       <url>https://www.islandgift.ru/product/89</url>
+			       <price>1000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>косметический набор для бани</name>
+<description>Каждая молодая девушка готова тратить много времени и сил для того, чтобы стать еще более красивой и привлекательной. Подарки из сферы красоты действительно значат очень много. Поэтому данный набор станет отличным подарком. в состав набора входят различные крема и масла, а также ароматические свечи. Набор подбирается на основе ваших пожеланий. </description>
+			</offer>
+			<offer id="1052846512" available="true">
+			       <url>https://www.islandgift.ru/product/88</url>
+			       <price>9000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Палитры косметики SEPHORA</name>
+<description>Особенности: Идеально подходит как для профессионального салона, так и для домашнего использования. 184 полноцветные палитры теней, включающие матовые и мерцающие цвета, соответствуют вашему каждому образу. Цвета очень пигментные и яркие, смешиваются матовые и атласные с легким мерцанием. Описание: С ингредиентами вместе для ухода за кожей вокруг глаз. Популярный и ведущий цвет тренда. </description>
+			</offer>
+			<offer id="2201352271" available="true">
+			       <url>https://www.islandgift.ru/product/93</url>
+			       <price>2800</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Juicy Couture - Viva La Juicy La Fleur</name>
+<description>Коротко о товаре туалетная вода семейство: цветочные фруктовые год выпуска: 2012 Объем: 18 мл, 40 мл, 75 мл, 150 мл</description>
+			</offer>
+			<offer id="511216695" available="true">
+			       <url>https://www.islandgift.ru/product/94</url>
+			       <price>4900</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>набор «CND Shellac»</name>
+<description>Предлагаем Вашему вниманию обзор набора для шеллака с лампой CND Shellac, который полезно иметь у себя дома каждой прекрасной даме. Гель-лак — это на сегодняшний день самое популярное покрытие и благодаря этому домашнему набору, можно делать маникюр самостоятельно не выходя из квартиры. Появление на рынке гель-лака буквально взорвало индустрию нейл-дизайна, ознаменовав конец эпохи повального увлечения таким видом маникюра, как наращивание ногтей. И это не удивительно, ведь шеллак не уступает гелю по следующим характеристикам: быстро высыхает; долго держится на ногтях; не откалывается по краям ногтевой пластины; не теряет блеска; не выцветает; не смывается под воздействием воды и бытовой химии. В то же время шеллак обладает всеми достоинствами декоративного лака: легко наносится и снимается; имеет широкую цветовую палитру; не утяжеляет ногти; не портит естественный вид ногтей. </description>
+			</offer>
+			<offer id="1859752458" available="true">
+			       <url>https://www.islandgift.ru/product/98</url>
+			       <price>950</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор для мужа(папы)</name>
+<description>Подарки Любой сложности ! Индивидуальный подход! Составляем по вашему желанию</description>
+			</offer>
+			<offer id="3457993830" available="true">
+			       <url>https://www.islandgift.ru/product/79</url>
+			       <price>450</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Кошелек Bailini</name>
+<description>бренд: Bailini (Италия); Материал: натуральная кожа + PU кожа; Дизайн - Италия; Производитель - Китай; Закрывается на кнопку; Длина: 11.40 см, высота: 10 см, толщина: 1.90 см. </description>
+			</offer>
+			<offer id="2743835507" available="true">
+			       <url>https://www.islandgift.ru/product/80</url>
+			       <price>1500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Мужская визитница</name>
+<description>Практичная визитница из натуральной кожи. Материал - натуральная кожа. Размеры - 10.5*7 см. Категория: Визитницы Бренд: Divalli Пол: Муж цвет: черный</description>
+			</offer>
+			<offer id="1446045436" available="true">
+			       <url>https://www.islandgift.ru/product/83</url>
+			       <price>129</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочная ручка </name>
+<description>Ручка в подарочном футляре  Золотой босс  Преимущества сувенира: подарочная упаковка с тиснением, дизайнерская ручка. Такой набор станет отличным подарком для друга, коллеги или близкого человека. Вес: 52 г Количество в упаковке: 1 В боксе: 200 шт. Тип индивидуальной упаковки: Пакет Глубина упаковки: 15 Высота упаковки: 3.5 Ширина упаковки: 3 Объем упаковки: 0.158 Объем продукта: 0.158 Объем бокса: 31.5 Ширина: 3 Высота: 2.7 Габариты товара: 15 см 3 см 2,7 см Материал: Металл Вид упаковки: Футляр Тематика праздника: Без повода Адресат: Боссу Материал упаковки: Пластик Страна производитель: Китай</description>
+			</offer>
+			<offer id="1757706437" available="true">
+			       <url>https://www.islandgift.ru/product/81</url>
+			       <price>350</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Ремень Rio Tinto</name>
+<description>Оригинальное название:2014 Style Belt Mens Luxury Real Leather Women Belts For Men Hot leisure G letters buckle Free shipping H 003 Артикул:2920 Пряжка шириной:4 см Тип: Ремни Марка: Rio Tinto Методы обработки: Чеканка Поставлять категории: Имеется в наличие Длина (см):100-135см Методы крепления: Гладкой пряжкой Упаковка: OPP Ширина: Общий раздел (2-4 см) В категории: Для взрослых Стиль: Модно Пол: Унисекс Материал: ремня Воловьей Размер ремешка: Универсальный размер Длина ленты:110 см Тип рисунка: Надписи Пряжки длину:7 см Ширина ленты:3,5 см Вес: 0.2 кг Группа товаров: Разное</description>
+			</offer>
+			<offer id="738144630" available="true">
+			       <url>https://www.islandgift.ru/product/85</url>
+			       <price>5500</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Огромный плюшевый медведь Олимп</name>
+<description>Размер: 195 см Цвет: коричневый Производитель: Россия Особенности огромного плюшевого медведя Олимпа 195 см Мишка Олимп- это игрушка невероятно огромных размеров! Как и у всех плюшевых медведей этой серии, у Олимпа есть пестрый й галстучек, который делает мишку ярче. Как оформить заказ на огромного плюшевого медведя? Для оформления покупки огромного плюшевого медведя Олимпа 195 см нажмите кнопку «В корзину», выберите способ доставки, оплаты и оставьте контактные данные. В минимальный срок с вами свяжется менеджер для уточнения информации. </description>
+			</offer>
+			<offer id="3872698605" available="true">
+			       <url>https://www.islandgift.ru/product/84</url>
+			       <price>3400</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>3</categoryId>
+				<delivery>true</delivery>
+			       <name>Галстук Rene Lezard</name>
+<description>Коротко о товаре Производитель: Rene Lezard Пол: мужской Модель: классика Ширина: широкий Материал: шелк</description>
+			</offer>
+			<offer id="1343228583" available="true">
+			       <url>https://www.islandgift.ru/product/2</url>
+			       <price>2000</price>
+			       <currencyId>RUR</currencyId>
+			       <categoryId>2</categoryId>
+				<delivery>true</delivery>
+			       <name>Подарочный набор цветы и баунти</name>
+<description>Подарок содержащий прекрасные цветы и очень вкусный шоколад!</description>
+			</offer>
+		</offers>
+</shop>
+</yml_catalog>
